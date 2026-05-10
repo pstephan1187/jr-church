@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daniel 1 Take-Home</title>
+  <style>
+    @page {
+      size: letter landscape;
+      margin: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      background: #e7dcc7;
+      color: #182632;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .sheet {
+      position: relative;
+      display: grid;
+      grid-template-columns: 5.5in 5.5in;
+      align-content: center;
+      width: 11in;
+      height: 8.5in;
+      margin: 0 auto;
+      page-break-after: always;
+      background: #f6f1e5;
+    }
+
+    .sheet::after {
+      content: "";
+      position: absolute;
+      top: .15in;
+      bottom: .15in;
+      left: 5.5in;
+      border-left: 1px dashed rgba(40, 40, 40, .38);
+      pointer-events: none;
+    }
+
+    .handout {
+      position: relative;
+      width: 5.5in;
+      height: 8in;
+      overflow: hidden;
+      background: #fffaf0;
+    }
+
+    .handout.front {
+      padding: .23in .27in .22in;
+    }
+
+    .background {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: 0;
+    }
+
+    .front::before {
+      content: "";
+      position: absolute;
+      inset: .16in;
+      z-index: 1;
+      border: 1px solid rgba(126, 89, 32, .28);
+      border-radius: .07in;
+      background: rgba(255, 252, 239, .68);
+      box-shadow: 0 .03in .16in rgba(87, 58, 16, .12);
+    }
+
+    .content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: .08in;
+    }
+
+    .eyebrow {
+      margin: 0;
+      color: #375f86;
+      font-size: 7.2pt;
+      font-weight: 800;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0;
+      color: #163a58;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 20pt;
+      line-height: .98;
+    }
+
+    h2 {
+      margin: 0 0 .04in;
+      color: #204b6c;
+      font-size: 9pt;
+      line-height: 1.05;
+      text-transform: uppercase;
+    }
+
+    .verse {
+      padding: .09in .12in;
+      border: 1px solid rgba(37, 77, 102, .25);
+      border-radius: .07in;
+      background: rgba(255, 255, 255, .72);
+    }
+
+    .verse-label {
+      margin: 0 0 .03in;
+      color: #8a4b16;
+      font-size: 7.4pt;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    .verse blockquote {
+      margin: 0;
+      color: #142636;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 8.8pt;
+      font-weight: 700;
+      line-height: 1.24;
+    }
+
+    .front-grid {
+      display: grid;
+      grid-template-columns: 1.28fr .9fr;
+      gap: .1in;
+      min-height: 0;
+      flex: 1;
+    }
+
+    .panel {
+      padding: .1in .1in .08in;
+      border: 1px solid rgba(31, 72, 95, .18);
+      border-radius: .06in;
+      background: rgba(255, 255, 255, .70);
+    }
+
+    .questions {
+      margin: 0;
+      padding-left: .16in;
+      font-size: 7.1pt;
+      line-height: 1.18;
+    }
+
+    .questions li {
+      margin: 0 0 .045in;
+      padding-left: .01in;
+    }
+
+    .answer-line {
+      display: block;
+      height: .11in;
+      margin-top: .018in;
+      border-bottom: 1px solid rgba(30, 51, 65, .5);
+    }
+
+    .apps {
+      margin: 0;
+      padding-left: .13in;
+      font-size: 7.2pt;
+      line-height: 1.17;
+    }
+
+    .apps li {
+      margin: 0 0 .035in;
+    }
+
+    .purpose-box {
+      margin-top: .08in;
+      padding: .06in .07in;
+      border: 1px solid rgba(139, 81, 20, .28);
+      border-radius: .05in;
+      background: rgba(255, 246, 218, .78);
+      color: #3e2d17;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 7.7pt;
+      font-weight: 700;
+      line-height: 1.18;
+    }
+
+    .name-row {
+      display: grid;
+      grid-template-columns: 1fr 1.25in;
+      gap: .08in;
+      align-items: end;
+      margin-top: .02in;
+      color: #31546d;
+      font-size: 7.4pt;
+      font-weight: 700;
+    }
+
+    .name-line {
+      border-bottom: 1px solid rgba(30, 51, 65, .55);
+      height: .12in;
+    }
+
+    .back {
+      padding: .2in .25in;
+      border: .03in solid #1f2a32;
+      background: #fff;
+    }
+
+    .back-header {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: .12in;
+      margin-bottom: .08in;
+    }
+
+    .back h1 {
+      color: #121820;
+      font-size: 16pt;
+    }
+
+    .back .reference {
+      margin: 0;
+      color: #3c3c3c;
+      font-size: 7.4pt;
+      font-weight: 800;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .coloring-frame {
+      position: relative;
+      width: 4.95in;
+      height: 6.83in;
+      margin: 0 auto;
+      overflow: hidden;
+      border: 1px solid #111;
+      background: #fff;
+    }
+
+    .coloring-frame img {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 6.82in;
+      max-width: none;
+      transform: translate(-50%, -50%) rotate(90deg);
+      filter: grayscale(1) contrast(1.08);
+    }
+
+    .back-note {
+      margin: .06in 0 0;
+      color: #2c2c2c;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 7.5pt;
+      line-height: 1.2;
+      text-align: center;
+    }
+
+    @media screen {
+      body {
+        padding: .25in;
+      }
+
+      .sheet {
+        box-shadow: 0 .08in .35in rgba(0, 0, 0, .18);
+      }
+
+      .sheet + .sheet {
+        margin-top: .35in;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="sheet" aria-label="Two duplicated Daniel 1 take-home fronts">
+      <article class="handout front">
+        <img class="background" src="take-home-background.png" alt="">
+        <div class="content">
+          <header>
+            <p class="eyebrow">Good Choices / Bad Choices</p>
+            <h1>Daniel's Good Choice</h1>
+          </header>
+
+          <section class="verse">
+            <p class="verse-label">Memory Verse - Daniel 1:8a</p>
+            <blockquote>But Daniel purposed in his heart that he would not defile himself with the portion of the king&rsquo;s meat, nor with the wine which he drank:</blockquote>
+          </section>
+
+          <div class="front-grid">
+            <section class="panel">
+              <h2>Find The Answers In Daniel 1</h2>
+              <ol class="questions">
+                <li>What did the king command Ashpenaz to teach the young men? <span class="answer-line"></span></li>
+                <li>What new names were given to Daniel and his three friends? <span class="answer-line"></span></li>
+                <li>What did Daniel ask Melzar to give them instead of the king&rsquo;s meat and wine? <span class="answer-line"></span></li>
+                <li>How many days did Daniel ask for the test to last? <span class="answer-line"></span></li>
+                <li>After the test, how did Daniel and his friends look? <span class="answer-line"></span></li>
+                <li>What did God give Daniel and his friends? <span class="answer-line"></span></li>
+                <li>How much better did the king find them than his wise men? <span class="answer-line"></span></li>
+                <li>How long did Daniel continue? <span class="answer-line"></span></li>
+              </ol>
+            </section>
+
+            <section class="panel">
+              <h2>Main Applications</h2>
+              <ul class="apps">
+                <li>Decide to obey God before temptation comes.</li>
+                <li>The world often starts with small wrong choices.</li>
+                <li>Obey God even when it costs something.</li>
+                <li>Take a stand respectfully.</li>
+                <li>Trust God with the results.</li>
+                <li>Small choices reveal big loyalties.</li>
+                <li>Good choices do not save us. We need Jesus to save us from sin.</li>
+              </ul>
+              <div class="purpose-box">My purpose this week:<br>I will choose to obey God when ____________.</div>
+            </section>
+          </div>
+
+          <div class="name-row">
+            <span>Name</span>
+            <span class="name-line"></span>
+          </div>
+        </div>
+      </article>
+
+      <article class="handout front">
+        <img class="background" src="take-home-background.png" alt="">
+        <div class="content">
+          <header>
+            <p class="eyebrow">Good Choices / Bad Choices</p>
+            <h1>Daniel's Good Choice</h1>
+          </header>
+
+          <section class="verse">
+            <p class="verse-label">Memory Verse - Daniel 1:8a</p>
+            <blockquote>But Daniel purposed in his heart that he would not defile himself with the portion of the king&rsquo;s meat, nor with the wine which he drank:</blockquote>
+          </section>
+
+          <div class="front-grid">
+            <section class="panel">
+              <h2>Find The Answers In Daniel 1</h2>
+              <ol class="questions">
+                <li>What did the king command Ashpenaz to teach the young men? <span class="answer-line"></span></li>
+                <li>What new names were given to Daniel and his three friends? <span class="answer-line"></span></li>
+                <li>What did Daniel ask Melzar to give them instead of the king&rsquo;s meat and wine? <span class="answer-line"></span></li>
+                <li>How many days did Daniel ask for the test to last? <span class="answer-line"></span></li>
+                <li>After the test, how did Daniel and his friends look? <span class="answer-line"></span></li>
+                <li>What did God give Daniel and his friends? <span class="answer-line"></span></li>
+                <li>How much better did the king find them than his wise men? <span class="answer-line"></span></li>
+                <li>How long did Daniel continue? <span class="answer-line"></span></li>
+              </ol>
+            </section>
+
+            <section class="panel">
+              <h2>Main Applications</h2>
+              <ul class="apps">
+                <li>Decide to obey God before temptation comes.</li>
+                <li>The world often starts with small wrong choices.</li>
+                <li>Obey God even when it costs something.</li>
+                <li>Take a stand respectfully.</li>
+                <li>Trust God with the results.</li>
+                <li>Small choices reveal big loyalties.</li>
+                <li>Good choices do not save us. We need Jesus to save us from sin.</li>
+              </ul>
+              <div class="purpose-box">My purpose this week:<br>I will choose to obey God when ____________.</div>
+            </section>
+          </div>
+
+          <div class="name-row">
+            <span>Name</span>
+            <span class="name-line"></span>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <section class="sheet" aria-label="Two duplicated Daniel 1 coloring backs">
+      <article class="handout back">
+        <header class="back-header">
+          <h1>Color Daniel's Good Choice</h1>
+          <p class="reference">Daniel 1</p>
+        </header>
+        <div class="coloring-frame">
+          <img src="coloring-page.png" alt="Daniel coloring page">
+        </div>
+        <p class="back-note">Daniel purposed in his heart that he would obey God.</p>
+      </article>
+
+      <article class="handout back">
+        <header class="back-header">
+          <h1>Color Daniel's Good Choice</h1>
+          <p class="reference">Daniel 1</p>
+        </header>
+        <div class="coloring-frame">
+          <img src="coloring-page.png" alt="Daniel coloring page">
+        </div>
+        <p class="back-note">Daniel purposed in his heart that he would obey God.</p>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
