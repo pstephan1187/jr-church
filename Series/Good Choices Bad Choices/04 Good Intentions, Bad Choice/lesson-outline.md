@@ -8,13 +8,13 @@
 - **Main Passage:** 1 Samuel 15
 - **Main Point:** Disobeying God is never a good choice, no matter what the reason.
 
-## Memory Verse
-
-> **1 Samuel 15:22b-23a**
-> 
-> Behold, to obey is better than sacrifice, and to hearken than the fat of rams. For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry.
+> I Samuel 15:1-29
 
 ## Lesson Outline
+
+**Historical Context:** A long time before Saul was king, God brought the children of Israel out of Egypt. While they were traveling in the wilderness, the Amalekites came and fought against them. They did not come to help God's people. They attacked God's people when they were tired and on their journey.
+
+If you remember, this is the battle where Moses stood on the hill and held up his arms with the help of Aaron and Hur.
 
 ### 1. God Gave Saul A Clear Command
 
@@ -22,11 +22,13 @@
 > 
 > Samuel also said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD. Thus saith the LORD of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt. Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass.
 
-**Summary/Lesson:** God sent Samuel to King Saul with a clear command. Saul was not guessing what God wanted him to do. God told him exactly what to do with Amalek, and Saul was responsible to obey God's word.
+God sent Samuel to King Saul with a clear command. Saul was not guessing what God wanted him to do. God told him exactly what to do with Amalek, and Saul was responsible to obey God's word.
 
 This part of the lesson should stay focused on Saul's responsibility to obey. God is the righteous Judge, and He knew the long history of Amalek's wickedness against His people. Saul's job was not to improve God's command, soften it, or choose the parts he liked. His job was to obey.
 
-**Supporting Scriptures:** Exodus 17:14-16 shows that God had already judged Amalek for fighting against Israel. Deuteronomy 25:17-19 reminds Israel what Amalek had done. Ecclesiastes 12:13 says that man's duty is to fear God and keep His commandments.
+> **Ecclesiastes 12:13**
+> 
+> Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
 
 **Practical Application for Children:** Children often know what they were told to do. "Clean your room" does not mean "hide the toys under the bed." "Do your schoolwork" does not mean "do only the easy parts." When God or a parent gives a clear command, the right choice is to obey it.
 
@@ -38,15 +40,15 @@ This part of the lesson should stay focused on Saul's responsibility to obey. Go
 > 
 > And Saul smote the Amalekites from Havilah until thou comest to Shur, that is over against Egypt. And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword. But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly.
 
-**Summary/Lesson:** Saul fought the Amalekites like God commanded, but he did not obey all the way. He spared Agag the king and kept the best sheep, oxen, fatlings, lambs, and all that was good. Saul destroyed the things he did not want, but kept the things that looked useful or valuable.
+Saul fought the Amalekites like God commanded, but he did not obey all the way. He spared Agag the king and kept the best sheep, oxen, fatlings, lambs, and all that was good. Saul destroyed the things he did not want, but kept the things that looked useful or valuable.
 
-Partial obedience is not the same as obedience. Saul could point to many things he had done, but the kept king and kept animals showed that he had chosen his own way over God's word.
+Is that what God commanded? Partial obedience is not obedience. Saul could point to many things he had done, but when he kept the king and animals he showed that he had chosen his own way over God's word.
 
-**Supporting Scriptures:** Proverbs 3:5-6 teaches us not to lean on our own understanding. Luke 6:46 warns against calling Jesus Lord while refusing to do what He says. James 1:22 says to be doers of the word, not hearers only.
+> **Proverbs 3:5-6**
+> 
+> Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.
 
-**Practical Application for Children:** A child may obey the part of an instruction that is easy and ignore the part they do not like. They may put away some toys but keep playing with one, stop arguing out loud but stay angry inside, or obey when an adult is watching but disobey when alone. God wants obedience, not just the part that feels easy.
-
-**Illustration:** Show a worksheet with ten problems and only five finished. Ask, "Is the assignment done?" Some work was done, but the assignment was not obeyed completely. Saul did many things, but he still did not obey God's command.
+**Practical Application for Children:** A child may obey the part of an instruction that is easy and ignore the part they do not like. They may put away some toys but keep playing with one, stop arguing out loud but stay angry inside, or obey when an adult is watching but disobey when they are alone. God wants full obedience, not just the part that feels easy or that you want to do.
 
 ### 3. Saul Said He Obeyed, But The Sheep Told The Truth
 
@@ -56,29 +58,29 @@ Partial obedience is not the same as obedience. Saul could point to many things 
 
 **Summary/Lesson:** When Samuel came to Saul, Saul said, "I have performed the commandment of the LORD." Saul claimed he had obeyed, but Samuel could hear the sheep and oxen. The animals Saul kept were evidence that Saul's words were not true.
 
-Sin often tries to sound better than it really is. Saul did not begin by confessing. He talked like he had done right. But God already knew the truth, and Samuel could hear proof of Saul's disobedience.
+When Samuel called him out, Saul did not begin by confessing. He said, "They have brought them from the Amalekites: for the people spared the best..." Saul shifted the blame to the people. But Saul was the king, and God had given the command to Saul. It was not Saul's job to obey the people. It was Saul's job to obey God.
 
-**Supporting Scriptures:** Numbers 32:23 says, "be sure your sin will find you out." Proverbs 28:13 says that hiding sin does not prosper, but confessing and forsaking it brings mercy. Hebrews 4:13 teaches that nothing is hidden from God.
+Sin often tries to sound better than it really is. Saul talked like he had done right, and then he pointed at other people when he was caught. But God already knew the truth, and Samuel could hear proof of Saul's disobedience.
 
-**Practical Application for Children:** Children may be tempted to say, "I did it," when they only did part, or "I didn't do anything," when they know they did wrong. God wants us to tell the truth quickly instead of covering sin with good-sounding words.
+> **Proverbs 28:13**
+> 
+> He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.
 
-**Illustration:** Put a small bell or noisy item inside a bag and ask someone to pretend the bag is empty. When the bag makes noise, everyone knows something is inside. Saul said he obeyed, but the sound of the animals showed the truth.
+**Practical Application for Children:** Children may be tempted to say, "I did it," when they only did part, or "It was their idea," when they get caught not obeying all the way. God wants us to tell the truth quickly instead of covering sin with good-sounding words or blaming other people. If a friend wants you to disobey, your job is not to obey your friend. Your job is to obey God.
 
 ### 4. A Religious-Sounding Reason Does Not Make Disobedience Right
 
-> **1 Samuel 15:16-23**
+Samuel is talking to Saul here:
+
+> **1 Samuel 15:18-21**
 > 
-> Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on. And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the LORD anointed thee king over Israel? And the LORD sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed. Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD? And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites. But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal. And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams. For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from being king.
+> And the LORD sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed. Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD? And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites. But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal.
 
-**Summary/Lesson:** Saul blamed the people and said the best animals had been spared to sacrifice unto the LORD. That sounded spiritual, but Samuel made the truth plain: God wanted obedience more than sacrifice. Saul's reason did not turn disobedience into obedience.
+Samuel confronted Saul again about his disobedience but instead of confessing, Saul doubled down and blamed the people and said the best animals had been spared to sacrifice unto the LORD. Saul tried to make it sound like he was trying to do right, but Samuel made the truth plain: God wanted obedience more than sacrifice. Saul's reason did not turn disobedience into obedience.
 
-Sometimes people try to make a wrong choice sound good. They may say they disobeyed because they were helping, because everyone else wanted it, because they meant well, or because they planned to do something good later. But a good-sounding reason cannot make disobeying God right.
-
-**Supporting Scriptures:** Matthew 7:21 says that saying "Lord, Lord" is not the same as doing the Father's will. Psalm 51:16-17 shows that God cares about the heart, not empty religious actions. John 14:15 connects love for Christ with keeping His commandments.
+Sometimes people try to make a wrong choice sound good. Or they do something naughty to do something right. They may say they disobeyed because they were helping, because everyone else wanted it, because they meant well, or because they planned to do something good later. But a good-sounding reason cannot make disobeying God right.
 
 **Practical Application for Children:** A child may say, "I took it because I was going to share," "I lied so nobody would feel bad," or "I disobeyed because my friend wanted me to." Those reasons may sound nicer than the wrong choice, but God still wants obedience.
-
-**Illustration:** Hold up a dirty cup and put a clean label on it that says "clean." Ask if the label makes the cup clean. Calling disobedience by a nicer name does not change what it is.
 
 ### 5. Saul Feared People More Than He Obeyed God
 
@@ -86,15 +88,15 @@ Sometimes people try to make a wrong choice sound good. They may say they disobe
 > 
 > And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the LORD, and thy words: because I feared the people, and obeyed their voice. Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the LORD.
 
-**Summary/Lesson:** Saul finally admitted that he had sinned. He said he transgressed the commandment of the LORD because he feared the people and obeyed their voice. Saul was the king, but he let the pressure of people lead him away from God's command.
+Saul finally admitted that he had sinned. He said he transgressed the commandment of the LORD because he feared the people and obeyed their voice. Saul was the king, but he let the pressure of people lead him away from God's command.
 
 Being afraid of what people think can push us toward bad choices. Saul wanted to keep the people happy, but pleasing people is never more important than obeying God.
 
-**Supporting Scriptures:** Proverbs 29:25 says the fear of man bringeth a snare. Acts 5:29 says, "We ought to obey God rather than men." Galatians 1:10 warns that living to please people is not the same as serving Christ.
+> **Galatians 1:10**
+> 
+> For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.
 
-**Practical Application for Children:** Children may feel pressure to laugh at wrong jokes, hide the truth, disobey a parent, cheat, or go along with friends. The good choice is to obey God even when other people want something different.
-
-**Illustration:** Set one chair labeled "God's Word" and another labeled "People's Pressure." Ask where Saul should have stood. Then give examples children face and ask which chair each choice belongs with.
+**Practical Application for Children:** Children may feel pressure to laugh at wrong jokes, hide the truth, disobey a parent, cheat, or go along with friends. The good choice is to obey God even when other people want you to do something different.
 
 ### 6. Disobedience Cost Saul The Kingdom
 
@@ -106,15 +108,27 @@ Being afraid of what people think can push us toward bad choices. Saul wanted to
 > 
 > And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel.
 
-**Summary/Lesson:** Saul's disobedience had serious consequences. Samuel told Saul that because he rejected the word of the LORD, the LORD rejected him from being king. Saul grabbed Samuel's mantle, and it tore. Samuel used that torn mantle as a picture: the kingdom would be torn from Saul and given to another.
+This wasn't the first time Saul had disobeyed God. He had done it many times before. But God showed Saul mercy and gave him more chances to obey and do right. But over and over Saul was disobedient and disobeyed God. It finally came to the point that God would give him no more chances. God was done with Saul.
 
-God forgives sinners who come to Him, but sin still matters. Saul's story teaches children not to treat disobedience as small. A bad choice can bring painful consequences, especially when we keep excusing it instead of humbling ourselves before God.
+God gives grace and mercy, but if you continue to willfully disobey God and reject His commandments, then He will reject you. He will stop trying and just let your life be destroyed.
 
-**Supporting Scriptures:** Galatians 6:7 says that a person reaps what he sows. Hebrews 12:6 teaches that the Lord chastens those He loves. Romans 6:23 teaches that the wages of sin is death, but God's gift is eternal life through Jesus Christ.
+Saul's disobedience had serious consequences. Samuel told Saul that because he rejected the word of the LORD, the LORD rejected him from being king. Saul realized what was happening. He know that God was turning his back on him. He became desparate and pleaded with Samuel for another chance, so much so that he grabbed at Samuel's clothes, and tore them. Samuel used that torn mantle as a picture: the kingdom would be torn from Saul and given to another.
 
-**Practical Application for Children:** Disobedience can cost trust, privileges, peace, and a clean conscience. If a child sins, the right response is not to hide, blame, or make excuses. The right response is to confess the sin to God and to the person they disobeyed, and then choose obedience.
+God forgives sinners who come to Him, but sin still matters. Saul's story teaches us not to treat disobedience as a small thing. A bad choice can bring painful consequences, especially when we keep excusing it instead of humbling ourselves before God.
 
-**Illustration:** Tear a paper crown. Explain that Saul's sin did not just make a small problem for one day. His disobedience cost him the kingdom. Choices have consequences.
+Saul lost everything:
+- He lost God's favor
+- He lost God's guidance through Samuel
+- He lost his kingdom
+- He would eventually lose his son and his life
+
+God wants us to live for Him, serve Him, obey Him, and receive His blessing, but He will only try for so long. If we continue to willfully disobey God, He will turn His back on us.
+
+> **Galatians 6:7-8**
+> 
+> Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.
+
+**Practical Application for Children:** Disobedience can cost trust, privileges, peace, and a clean conscience. If a child disobeys, it will make an unhappy home. It will bring strife and fighting. But obedience with a good attitude and spirit will bring peace and happiness in your home.
 
 ## Segue Into The Plan Of Salvation
 
