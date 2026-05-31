@@ -24,7 +24,9 @@ If you remember, this is the battle where Moses stood on the hill and held up hi
 
 God sent Samuel to King Saul with a clear command. Saul was not guessing what God wanted him to do. God told him exactly what to do with Amalek, and Saul was responsible to obey God's word.
 
-This part of the lesson should stay focused on Saul's responsibility to obey. God is the righteous Judge, and He knew the long history of Amalek's wickedness against His people. Saul's job was not to improve God's command, soften it, or choose the parts he liked. His job was to obey.
+God gave Saul a clear command. It wasn't a fun command, or an easy one, but it was a very clear command. God gave Saul very specific instructions. Did God want Saul to do just part of the command or all of it? Now Saul was king though. As king, does he have to obey God? He should be able to do what he wants, right?
+
+When we are given instructions, by God, by our parents, by our teachers, God expects us to obey them. When God gave Saul these instructions, what did God expect?
 
 > **Ecclesiastes 12:13**
 > 
