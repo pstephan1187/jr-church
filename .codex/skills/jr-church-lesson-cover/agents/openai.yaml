@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jr Church Lesson Cover"
+  short_description: "Create a cohesive 16:9 lesson cover"
+  default_prompt: "Use $jr-church-lesson-cover to create a 16:9 cover image for a Junior Church lesson."
