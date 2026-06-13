@@ -9,6 +9,10 @@ description: Use when creating, regenerating, or refining a 16:9 Junior Church l
 
 Create a 16:9 lesson-level cover image for a Junior Church lesson. The cover should match the series image style, include the approved transparent series logo, and depict the lesson's specific Bible focus clearly enough to distinguish it from the series cover and other lesson covers.
 
+## Required Supporting Skill
+
+Before generating, editing, compositing, moving, or validating any image asset, load and follow the `imagegen` skill. Use its built-in image generation path by default, its project-bound save-path rules, and its guidance for using local images as references or overlay assets.
+
 ## Inputs
 
 Required:
@@ -26,7 +30,7 @@ If the lesson folder cannot be identified, ask for it. If the lesson outline is 
 1. Inspect the target lesson folder. Read `lesson-outline.md` when present to extract the lesson title, main passage, main point, and key visual moment.
 2. Inspect the parent series folder. Read `series-image-style.md`, locate `series-logo.png`, and view the series `cover-graphic.png` when present.
 3. View nearby lesson `cover-graphic.png` files to match style while keeping this cover visually distinct.
-4. Generate or composite a 16:9 PNG lesson cover using the image generation/editing tool available in the session.
+4. Generate or composite a 16:9 PNG lesson cover by following the `imagegen` skill.
 5. Save the final image at the lesson folder's `cover-graphic.png` unless the user gave another path.
 
 Preserve existing PDFs, HTML, coloring pages, take-home files, and non-target lesson images unless the user explicitly asks to replace them.

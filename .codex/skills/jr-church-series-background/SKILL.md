@@ -9,6 +9,10 @@ description: Use when creating, regenerating, or refining a 16:9 Junior Church p
 
 Create a 16:9 presentation background for a Junior Church lesson series. The background should match the series art style while staying quiet enough for slide text, Bible verses, memory verses, questions, or teaching notes to remain readable.
 
+## Required Supporting Skill
+
+Before generating, editing, moving, or validating any image asset, load and follow the `imagegen` skill. Use its built-in image generation path by default, its project-bound save-path rules, and its guidance for matching local reference images.
+
 ## Inputs
 
 Required:
@@ -25,7 +29,7 @@ If the series name is missing, ask for it. If no layout constraints are provided
 
 1. Inspect `Series/<Series Name>/`. Read `series-image-style.md` when present.
 2. View `series-logo.png`, series `cover-graphic.png`, and representative lesson `image-*.png` files when present.
-3. Generate a 16:9 PNG presentation background using the image generation/editing tool available in the session.
+3. Generate a 16:9 PNG presentation background by following the `imagegen` skill.
 4. Save the final image at `Series/<Series Name>/presentation-background.png` unless the user gave another path.
 5. If the background establishes reusable slide rules, append a short presentation-background note to `series-image-style.md`.
 

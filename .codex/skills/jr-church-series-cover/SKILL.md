@@ -9,6 +9,10 @@ description: Use when creating, regenerating, or refining a 16:9 Junior Church s
 
 Create a 16:9 series-level cover image for a Junior Church lesson series. The cover should feel like the main poster for the whole series, include the transparent series logo, and lock in visual cues that later lesson covers, lesson image sets, and presentation backgrounds can reuse.
 
+## Required Supporting Skill
+
+Before generating, editing, compositing, moving, or validating any image asset, load and follow the `imagegen` skill. Use its built-in image generation path by default, its project-bound save-path rules, and its guidance for using local images as references or overlay assets.
+
 ## Inputs
 
 Required:
@@ -26,7 +30,7 @@ If the series name is missing, ask for it. If the logo is missing, use `jr-churc
 1. Inspect `Series/<Series Name>/`. Read `series-image-style.md` if it exists.
 2. Locate `series-logo.png`. Confirm it is a transparent PNG suitable for overlay.
 3. View existing series or lesson cover images when present. `Series/Good Choices Bad Choices/cover-graphic.png` is a useful benchmark for colorful, kid-facing polish, not a required style.
-4. Generate or composite a 16:9 PNG cover image using the image generation/editing tool available in the session.
+4. Generate or composite a 16:9 PNG cover image by following the `imagegen` skill.
 5. Save the final image at `Series/<Series Name>/cover-graphic.png` unless the user gave another path.
 6. Update `Series/<Series Name>/series-image-style.md` if the cover establishes new palette, motifs, lighting, composition rules, or texture details.
 

@@ -9,6 +9,10 @@ description: Use when creating, regenerating, or refining a cohesive set of 16:9
 
 Create a sequence of 16:9 lesson images that support teaching a Junior Church Bible lesson. The images should feel like they belong to the same lesson, match the parent series style, and provide distinct visual beats for the teacher to use during the lesson.
 
+## Required Supporting Skill
+
+Before generating, editing, moving, or validating any image asset, load and follow the `imagegen` skill. Use its built-in image generation path by default, its project-bound save-path rules, and its repeated-generation workflow when creating multiple images in one set.
+
 ## Inputs
 
 Required:
@@ -27,7 +31,7 @@ If the lesson folder cannot be identified, ask for it. If image count is not pro
 2. Inspect the parent series folder. Read `series-image-style.md` and view the series and lesson `cover-graphic.png` files when present.
 3. View existing `image-*.png` files only if regenerating, extending, or matching an existing set.
 4. Plan the image sequence before generating. Save or update a concise `lesson-image-plan.md` in the lesson folder when creating a new set.
-5. Generate 16:9 PNG images using the image generation/editing tool available in the session.
+5. Generate 16:9 PNG images by following the `imagegen` skill.
 6. Save outputs as `image-1.png`, `image-2.png`, and so on unless the user gives different filenames.
 
 Preserve existing PDFs, HTML, coloring pages, take-home files, covers, and non-target lesson images unless the user explicitly asks to replace them.

@@ -9,6 +9,10 @@ description: Use when creating, regenerating, or refining a transparent PNG Juni
 
 Create a reusable transparent PNG logo that becomes the visual anchor for a Junior Church lesson series. The logo should be colorful, readable at classroom-screen distance, and easy for later 16:9 cover-image skills to place inside larger scenes.
 
+## Required Supporting Skill
+
+Before generating, editing, post-processing, moving, or validating any image asset, load and follow the `imagegen` skill. Use its built-in image generation path by default, its project-bound save-path rules, and its transparent-image workflow for alpha PNG logos.
+
 ## Inputs
 
 Required:
@@ -25,7 +29,7 @@ If the series name is missing, ask for it. If the art direction is missing, insp
 
 1. Inspect `Series/<Series Name>/` when it exists. Read nearby lesson outline titles and view any existing `cover-graphic.png`, `image-*.png`, or `series-logo.png` files before prompting.
 2. Preserve existing PDFs, HTML, coloring pages, and lesson images unless the user explicitly asks to replace them.
-3. Generate or refine a transparent PNG logo image. Use the image generation/editing tool available in the session.
+3. Generate or refine a transparent PNG logo image by following the `imagegen` skill.
 4. Save the final image at `Series/<Series Name>/series-logo.png` unless the user gave another path.
 5. Create or update `Series/<Series Name>/series-image-style.md` with the style lock so later image skills can match it.
 
