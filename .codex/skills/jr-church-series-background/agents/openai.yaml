@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jr Church Series Background"
+  short_description: "Create matching 16:9 slide backgrounds"
+  default_prompt: "Use $jr-church-series-background to create a matching 16:9 presentation background for a Junior Church series."
