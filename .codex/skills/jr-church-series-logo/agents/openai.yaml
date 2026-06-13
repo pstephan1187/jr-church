@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jr Church Series Logo"
+  short_description: "Create a transparent series logo"
+  default_prompt: "Use $jr-church-series-logo to create a transparent PNG logo for a Junior Church series."
