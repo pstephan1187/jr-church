@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:,">
+  <title>Good Intentions, Bad Choice Take-Home</title>
+  <style>
+    @page {
+      size: letter landscape;
+      margin: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      background: #e7dcc7;
+      color: #182632;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .sheet {
+      width: 11in;
+      height: 8.5in;
+      margin: 0 auto;
+      page-break-after: always;
+      overflow: hidden;
+      background: #fbf5e6;
+    }
+
+    .worksheet {
+      padding: .32in .38in;
+    }
+
+    .worksheet-inner {
+      --section-gap: .14in;
+      height: 100%;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      gap: var(--section-gap);
+      padding: var(--section-gap);
+      border: 2px solid #274d6b;
+      border-radius: .08in;
+      background:
+        linear-gradient(90deg, rgba(39, 77, 107, .08), transparent 24%, transparent 76%, rgba(180, 112, 36, .10)),
+        #fffdf6;
+    }
+
+    .top {
+      display: block;
+    }
+
+    .eyebrow {
+      margin: 0 0 .02in;
+      color: #9a4f13;
+      font-size: 8pt;
+      font-weight: 800;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0;
+      color: #173a55;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 28pt;
+      line-height: .95;
+    }
+
+    .subtitle {
+      margin: .04in 0 0;
+      color: #34566c;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 13pt;
+      font-weight: 700;
+    }
+
+    .section h2 {
+      margin: 0 0 .05in;
+      color: #1f4b6b;
+      font-size: 9pt;
+      line-height: 1;
+      text-transform: uppercase;
+    }
+
+    .main-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      gap: var(--section-gap);
+      min-height: 0;
+    }
+
+    .left-stack {
+      min-height: 0;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      gap: var(--section-gap);
+    }
+
+    .section {
+      min-height: 0;
+      padding: .12in .13in;
+      border: 1px solid rgba(39, 77, 107, .22);
+      border-radius: .06in;
+      background: rgba(255, 255, 255, .78);
+    }
+
+    .questions {
+      margin: 0;
+      padding-left: .18in;
+      font-size: 9pt;
+      line-height: 1.16;
+    }
+
+    .questions li {
+      margin: 0 0 .075in;
+      padding-left: .02in;
+    }
+
+    .answer-line {
+      display: block;
+      width: 100%;
+      height: .11in;
+      margin-top: .026in;
+      border-bottom: 1px solid rgba(28, 50, 63, .55);
+    }
+
+    .apps {
+      margin: 0;
+      padding-left: .18in;
+      font-size: 10.6pt;
+      line-height: 1.25;
+    }
+
+    .apps li {
+      margin: 0 0 .075in;
+    }
+
+    .memory-verse-panel {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      gap: .1in;
+      border-color: rgba(185, 107, 33, .38);
+      background: #fff4de;
+    }
+
+    .memory-reference {
+      margin: 0;
+      color: #9a4f13;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 17pt;
+      font-weight: 800;
+      line-height: 1;
+    }
+
+    .memory-verse {
+      margin: 0;
+      color: #173041;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 13.2pt;
+      font-weight: 700;
+      line-height: 1.17;
+    }
+
+    .bottom {
+      display: grid;
+      grid-template-columns: 1fr 3in;
+      gap: var(--section-gap);
+      align-items: stretch;
+    }
+
+    .memory-box,
+    .name-box {
+      padding: .09in .11in;
+      border-radius: .06in;
+      font-size: 8.6pt;
+      line-height: 1.22;
+    }
+
+    .memory-box {
+      border: 1px solid rgba(39, 77, 107, .25);
+      background: #eef6fb;
+      font-family: Georgia, "Times New Roman", serif;
+      font-weight: 700;
+    }
+
+    .name-box {
+      display: grid;
+      grid-template-columns: .45in 1fr;
+      gap: .06in;
+      align-items: end;
+      border: 1px solid rgba(39, 77, 107, .18);
+      background: #ffffff;
+      color: #34566c;
+      font-weight: 800;
+    }
+
+    .name-line {
+      height: .14in;
+      border-bottom: 1px solid rgba(28, 50, 63, .55);
+    }
+
+    .coloring {
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      gap: .1in;
+      padding: .28in .35in .24in;
+      background: #ffffff;
+    }
+
+    .coloring-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: .2in;
+      color: #121820;
+    }
+
+    .coloring-header h1 {
+      color: #121820;
+      font-size: 25pt;
+    }
+
+    .coloring-frame {
+      position: relative;
+      overflow: hidden;
+      border: 2px solid #111;
+      background: #fff;
+    }
+
+    .coloring-frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      filter: grayscale(1) contrast(1.08);
+    }
+
+    .coloring-note {
+      margin: 0;
+      color: #2c2c2c;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 10pt;
+      line-height: 1.2;
+      text-align: center;
+    }
+
+    @media screen {
+      body {
+        padding: .25in;
+      }
+
+      .sheet {
+        box-shadow: 0 .08in .35in rgba(0, 0, 0, .18);
+      }
+
+      .sheet + .sheet {
+        margin-top: .35in;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="sheet worksheet" aria-label="Saul take-home worksheet side">
+      <div class="worksheet-inner">
+        <header class="top">
+          <div>
+            <p class="eyebrow">Good Choices / Bad Choices</p>
+            <h1>Good Intentions, Bad Choice</h1>
+            <p class="subtitle">Obeying God all the way</p>
+          </div>
+        </header>
+
+        <div class="main-grid">
+          <div class="left-stack">
+            <section class="section memory-verse-panel">
+              <h2>Memory Verse</h2>
+              <p class="memory-reference">1 Samuel 15:22b-23a</p>
+              <p class="memory-verse">Behold, to obey is better than sacrifice, and to hearken than the fat of rams. For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry.</p>
+            </section>
+
+            <section class="section">
+              <h2>Main Applications</h2>
+              <ul class="apps">
+                <li>Obey God all the way, not just the easy parts.</li>
+                <li>Do not use good reasons to excuse bad choices.</li>
+                <li>Tell the truth instead of blaming others.</li>
+                <li>Obey God even when people want something else.</li>
+                <li>Remember that disobedience has consequences.</li>
+                <li>Good choices cannot save us. We need Jesus.</li>
+              </ul>
+            </section>
+          </div>
+
+          <section class="section">
+            <h2>Find The Answers In 1 Samuel 15</h2>
+            <ol class="questions">
+              <li>Who did God send to give Saul instructions? <span class="answer-line"></span></li>
+              <li>What people did God command Saul to fight? <span class="answer-line"></span></li>
+              <li>What king did Saul keep alive? <span class="answer-line"></span></li>
+              <li>What animals did Saul and the people spare? <span class="answer-line"></span></li>
+              <li>What did Saul say when Samuel first came to him? <span class="answer-line"></span></li>
+              <li>What did Samuel hear that showed Saul had disobeyed? <span class="answer-line"></span></li>
+              <li>Who did Saul blame for keeping the animals? <span class="answer-line"></span></li>
+              <li>What did Samuel say is better than sacrifice? <span class="answer-line"></span></li>
+              <li>Why did Saul say he disobeyed? <span class="answer-line"></span></li>
+              <li>What did Saul's disobedience cost him? <span class="answer-line"></span></li>
+            </ol>
+          </section>
+        </div>
+
+        <footer class="bottom">
+          <div class="memory-box">Remember: Disobeying God is never a good choice, no matter what the reason.</div>
+          <div class="name-box"><span>Name</span><span class="name-line"></span></div>
+        </footer>
+      </div>
+    </section>
+
+    <section class="sheet coloring" aria-label="Saul and Samuel coloring page side">
+      <header class="coloring-header">
+        <h1>Color Good Intentions, Bad Choice</h1>
+      </header>
+      <div class="coloring-frame">
+        <img src="coloring-page.png" alt="Saul grabbing Samuel's torn robe coloring page">
+      </div>
+      <p class="coloring-note">Saul learned that obedience is better than excuses. Choose to obey God all the way.</p>
+    </section>
+  </main>
+</body>
+</html>

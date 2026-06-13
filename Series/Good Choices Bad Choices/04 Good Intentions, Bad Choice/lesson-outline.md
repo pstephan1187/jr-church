@@ -152,3 +152,26 @@ Good choices matter, but good choices do not save us. Jesus saves sinners. After
 - Choose God's Word over pressure from friends or other people.
 - Remember that disobedience has consequences.
 - Good choices cannot save us from sin. We need Jesus to save us.
+
+## Review Questions
+
+1. Easy: Who was the king in today's lesson?
+2. Easy: Who was the prophet who spoke God's message to Saul?
+3. Easy: What people did God command Saul to fight?
+4. Easy: What king did Saul keep alive?
+5. Easy: What animals did Saul and the people keep?
+6. Medium: What had Amalek done to Israel long before Saul was king?
+7. Medium: Did Saul obey all of God's command or only part of it?
+8. Medium: What did Saul say when Samuel first came to him?
+9. Medium: What sound did Samuel hear that showed Saul had disobeyed?
+10. Medium: Who did Saul blame for keeping the animals?
+11. Medium: Was it Saul's job to obey the people or to obey God?
+12. Medium: What did Saul say the animals were kept for?
+13. Medium: What did Samuel say is better than sacrifice?
+14. Medium: Why can a good-sounding reason not make disobedience right?
+15. Medium: What did Saul say he feared when he disobeyed?
+16. Hard: Why is partial obedience still disobedience?
+17. Hard: How did Saul try to cover or explain away his sin?
+18. Hard: What happened to Samuel's mantle when Saul grabbed it?
+19. Hard: What did Saul's disobedience cost him?
+20. Hard: Why can good choices not save us from sin?
