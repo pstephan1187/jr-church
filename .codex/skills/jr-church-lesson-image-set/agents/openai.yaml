@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jr Church Lesson Image Set"
+  short_description: "Create cohesive 16:9 lesson images"
+  default_prompt: "Use $jr-church-lesson-image-set to create a cohesive set of 16:9 images for a Junior Church lesson."
