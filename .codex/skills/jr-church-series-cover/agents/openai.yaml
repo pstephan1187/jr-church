@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jr Church Series Cover"
+  short_description: "Create a cohesive 16:9 series cover"
+  default_prompt: "Use $jr-church-series-cover to create a 16:9 cover image for a Junior Church series."
