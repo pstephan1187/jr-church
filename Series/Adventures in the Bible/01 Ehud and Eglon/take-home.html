@@ -1,0 +1,431 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:,">
+  <title>The Secret Strike Take-Home</title>
+  <style>
+    @page {
+      size: letter landscape;
+      margin: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      background: #e7dcc7;
+      color: #182632;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .sheet {
+      width: 11in;
+      height: 8.5in;
+      margin: 0 auto;
+      page-break-after: always;
+      overflow: hidden;
+      background: #fbf5e6;
+    }
+
+    .worksheet {
+      padding: .32in .38in;
+    }
+
+    .worksheet-inner {
+      --section-gap: .14in;
+      height: 100%;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      gap: var(--section-gap);
+      padding: var(--section-gap);
+      border: 2px solid #274d6b;
+      border-radius: .08in;
+      background:
+        linear-gradient(90deg, rgba(39, 77, 107, .08), transparent 24%, transparent 76%, rgba(180, 112, 36, .10)),
+        #fffdf6;
+    }
+
+    .top {
+      display: grid;
+      grid-template-columns: 1fr 2.85in;
+      gap: var(--section-gap);
+      align-items: start;
+    }
+
+    .title-lockup {
+      display: grid;
+      grid-template-columns: .78in 1fr;
+      gap: .12in;
+      align-items: center;
+    }
+
+    .series-logo {
+      width: .78in;
+      height: .78in;
+      object-fit: contain;
+      display: block;
+    }
+
+    .eyebrow {
+      margin: 0 0 .02in;
+      color: #9a4f13;
+      font-size: 8pt;
+      font-weight: 800;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0;
+      color: #173a55;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 28pt;
+      line-height: .95;
+    }
+
+    .subtitle {
+      margin: .04in 0 0;
+      color: #34566c;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 13pt;
+      font-weight: 700;
+    }
+
+    .truth,
+    .section {
+      padding: .11in .13in;
+      border: 1px solid rgba(39, 77, 107, .22);
+      border-radius: .06in;
+      background: rgba(255, 255, 255, .78);
+    }
+
+    .truth {
+      background: #eef6fb;
+    }
+
+    .truth h2,
+    .section h2 {
+      margin: 0 0 .05in;
+      color: #1f4b6b;
+      font-size: 9pt;
+      line-height: 1;
+      text-transform: uppercase;
+    }
+
+    .truth p {
+      margin: 0;
+      color: #173041;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 10.5pt;
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    .main-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.16fr) minmax(0, 1.28fr) minmax(0, 1fr);
+      gap: var(--section-gap);
+      min-height: 0;
+    }
+
+    .left-stack,
+    .right-stack {
+      min-height: 0;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      gap: var(--section-gap);
+    }
+
+    .questions {
+      margin: 0;
+      padding-left: .15in;
+      font-size: 9.1pt;
+      line-height: 1.18;
+    }
+
+    .questions li {
+      margin: 0 0 .075in;
+      padding-left: .01in;
+    }
+
+    .answer-line {
+      display: block;
+      width: 100%;
+      height: .115in;
+      margin-top: .026in;
+      border-bottom: 1px solid rgba(28, 50, 63, .55);
+    }
+
+    .apps {
+      margin: 0;
+      padding-left: .15in;
+      font-size: 8.9pt;
+      line-height: 1.2;
+    }
+
+    .apps li {
+      margin: 0 0 .055in;
+    }
+
+    .memory-verse-panel {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      gap: .08in;
+      border-color: rgba(185, 107, 33, .38);
+      background: #fff4de;
+    }
+
+    .memory-reference {
+      margin: 0;
+      color: #9a4f13;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 16pt;
+      font-weight: 800;
+      line-height: 1;
+    }
+
+    .memory-verse {
+      margin: 0;
+      color: #173041;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 11.6pt;
+      font-weight: 700;
+      line-height: 1.16;
+    }
+
+    .next-week {
+      border-color: rgba(185, 107, 33, .38);
+      background: #fff8e9;
+    }
+
+    .preview {
+      margin: 0 0 .08in;
+      color: #173041;
+      font-size: 9.2pt;
+      font-weight: 700;
+      line-height: 1.22;
+    }
+
+    .next-memory-reference {
+      margin: 0 0 .04in;
+      color: #9a4f13;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 13pt;
+      font-weight: 800;
+      line-height: 1;
+    }
+
+    .next-memory-verse {
+      margin: 0;
+      color: #173041;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 10.4pt;
+      font-weight: 700;
+      line-height: 1.16;
+    }
+
+    .bottom {
+      display: grid;
+      grid-template-columns: 1fr 3in;
+      gap: var(--section-gap);
+      align-items: stretch;
+    }
+
+    .memory-box,
+    .name-box {
+      padding: .09in .11in;
+      border-radius: .06in;
+      font-size: 8.6pt;
+      line-height: 1.22;
+    }
+
+    .memory-box {
+      border: 1px solid rgba(39, 77, 107, .25);
+      background: #eef6fb;
+      font-family: Georgia, "Times New Roman", serif;
+      font-weight: 700;
+    }
+
+    .name-box {
+      display: grid;
+      grid-template-columns: .45in 1fr;
+      gap: .06in;
+      align-items: end;
+      border: 1px solid rgba(39, 77, 107, .18);
+      background: #ffffff;
+      color: #34566c;
+      font-weight: 800;
+    }
+
+    .name-line {
+      height: .14in;
+      border-bottom: 1px solid rgba(28, 50, 63, .55);
+    }
+
+    .coloring {
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      gap: .1in;
+      padding: .28in .35in .24in;
+      background: #ffffff;
+    }
+
+    .coloring-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: .2in;
+      color: #121820;
+    }
+
+    .coloring-header h1 {
+      color: #121820;
+      font-size: 25pt;
+    }
+
+    .coloring-frame {
+      position: relative;
+      overflow: hidden;
+      border: 2px solid #111;
+      background: #fff;
+    }
+
+    .coloring-frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      filter: grayscale(1) contrast(1.08);
+    }
+
+    .coloring-note {
+      margin: 0;
+      color: #2c2c2c;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 10pt;
+      line-height: 1.2;
+      text-align: center;
+    }
+
+    @media screen {
+      body {
+        padding: .25in;
+      }
+
+      .sheet {
+        box-shadow: 0 .08in .35in rgba(0, 0, 0, .18);
+      }
+
+      .sheet + .sheet {
+        margin-top: .35in;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="sheet worksheet" aria-label="Ehud and Eglon take-home worksheet">
+      <div class="worksheet-inner">
+        <header class="top">
+          <div class="title-lockup">
+            <img class="series-logo" src="../series-logo.png" alt="" aria-hidden="true">
+            <div>
+              <p class="eyebrow">Adventures in the Bible</p>
+              <h1>The Secret Strike</h1>
+              <p class="subtitle">Sin brings consequences, but repentance brings deliverance.</p>
+            </div>
+          </div>
+
+          <section class="truth">
+            <h2>Today's Big Truth</h2>
+            <p>God is merciful to deliver sinners who turn back to Him.</p>
+          </section>
+        </header>
+
+        <div class="main-grid">
+          <div class="left-stack">
+            <section class="section memory-verse-panel">
+              <h2>Memory Verse</h2>
+              <p class="memory-reference">Proverbs 28:13</p>
+              <p class="memory-verse">He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.</p>
+            </section>
+
+            <section class="section">
+              <h2>Main Applications</h2>
+              <ul class="apps">
+                <li>Sin is serious and always brings consequences.</li>
+                <li>Do not hide sin, excuse sin, or keep going back to sin.</li>
+                <li>Seek God's forgiveness and mercy, and turn from your sin.</li>
+                <li>God can use unexpected people who are willing to obey Him.</li>
+                <li>Courage means doing right because God is greater than the danger.</li>
+              </ul>
+            </section>
+          </div>
+
+          <section class="section">
+            <h2>Find The Answers In Judges 3:12-30</h2>
+            <ol class="questions">
+              <li>What king oppressed Israel? <span class="answer-line"></span></li>
+              <li>How many years did Israel serve Eglon? <span class="answer-line"></span></li>
+              <li>What did Israel do after years of trouble? <span class="answer-line"></span></li>
+              <li>Who did God raise up as a deliverer? <span class="answer-line"></span></li>
+              <li>What was unusual about Ehud? <span class="answer-line"></span></li>
+              <li>What did Ehud hide under his clothes? <span class="answer-line"></span></li>
+              <li>What did Ehud say he had for the king? <span class="answer-line"></span></li>
+              <li>What did Ehud blow after he escaped? <span class="answer-line"></span></li>
+              <li>How long did the land have rest? <span class="answer-line"></span></li>
+              <li>Why should we not hide or excuse our sin? <span class="answer-line"></span></li>
+            </ol>
+          </section>
+
+          <div class="right-stack">
+            <section class="section next-week">
+              <h2>Next Week</h2>
+              <p class="preview">We will learn about another man who stood up to a powerful ruler.</p>
+              <p class="next-memory-reference">2 Timothy 3:12-13</p>
+              <p class="next-memory-verse">Yea, and all that will live godly in Christ Jesus shall suffer persecution. But evil men and seducers shall wax worse and worse, deceiving, and being deceived.</p>
+            </section>
+
+            <section class="section">
+              <h2>Talk About It At Home</h2>
+              <ul class="apps">
+                <li>What consequence did Israel face because of sin?</li>
+                <li>What did God do when Israel cried unto Him?</li>
+                <li>What should we do instead of hiding sin?</li>
+                <li>How is Jesus the greatest Deliverer?</li>
+              </ul>
+            </section>
+          </div>
+        </div>
+
+        <footer class="bottom">
+          <div class="memory-box">Remember: Sin brings trouble, but God gives mercy and deliverance when sinners turn back to Him.</div>
+          <div class="name-box"><span>Name</span><span class="name-line"></span></div>
+        </footer>
+      </div>
+    </section>
+
+    <section class="sheet coloring" aria-label="Ehud and Eglon coloring page side">
+      <header class="coloring-header">
+        <h1>The Secret Strike</h1>
+      </header>
+      <div class="coloring-frame">
+        <img src="coloring-page.png" alt="Ehud speaking to King Eglon in the palace chamber coloring page">
+      </div>
+      <p class="coloring-note">Ehud stood before a powerful ruler, but God was working to deliver His people.</p>
+    </section>
+  </main>
+</body>
+</html>
