@@ -100,11 +100,11 @@ The man obeyed. He went through Decapolis and told everyone what great things Je
 
 ## Segue Into The Plan Of Salvation
 
-The man in this story needed deliverance from devils, but every person needs deliverance from sin. His problem looked unusual and frightening, but our sin problem is real too. Romans 3:23 says, "For all have sinned, and come short of the glory of God."
+The man in this story needed deliverance from his sin. Just like him, we all need deliverance from sin. His problem looked unusual and frightening, but our sin problem is real too. Romans 3:23 says, "For all have sinned, and come short of the glory of God."
 
-No chain could fix that man, and no good work can save us from sin. We cannot save ourselves by being nicer, going to church, being baptized, or promising to do better. Romans 6:23 says, "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
+No chain could fix that man, and no good work can save us from sin. That man couldn’t save himself, and all the strongest men and chains couldn’t save him either. We also cannot save ourselves by being nicer, going to church, being baptized, or promising to do better. Romans 6:23 says, "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord." Jesus has to save us from our sin.
 
-Jesus showed compassion to the man of Gadara, and Jesus showed the greatest compassion when He went to the cross. Jesus never sinned. He died for our sins, was buried, and rose again the third day. He has power over devils, power over death, and power to save sinners.
+Jesus showed compassion to the man of Gadara, and Jesus showed the greatest compassion when He went to the cross. Jesus never sinned. He died for our sins, was buried, and rose again the third day. He has power over devils, power over death, and power to save sinners. Just the same way that man went running to Christ, you must run to Christ as well and ask Him to save you.
 
 The changed man was told to tell what great things the Lord had done for him. The greatest thing Jesus can do for any child is save him from sin. If you know you are a sinner, believe on the Lord Jesus Christ. Romans 10:13 says, "For whosoever shall call upon the name of the Lord shall be saved."
 
