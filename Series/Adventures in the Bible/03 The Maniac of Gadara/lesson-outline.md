@@ -96,7 +96,9 @@ The man obeyed. He went through Decapolis and told everyone what great things Je
 
 **Practical Application for Children:** Children can tell others what Jesus has done. They can tell a friend Jesus saves. They can invite someone to church. They can say, "Jesus helped me obey," or, "Jesus forgave my sin." A testimony does not have to be fancy. It should be honest and point people to the Lord.
 
-**Illustration:** When someone does something great for you, you like to tell others about them
+**Illustration:** When someone does something great for you, you naturally want to tell people. If you were lost in a store and someone kindly helped you find your parents, you would not go home and say nothing about it. You would tell your family, "I was lost, and someone helped me!" If a teacher helped you understand something hard, or a friend stood up for you when you felt alone, you would remember it and talk about it.
+
+That is what Jesus told this man to do. He did not need a long sermon or fancy words. He could simply say, "I was living in the tombs. I was miserable. No one could help me. Then Jesus had compassion on me and changed my life." Children can do the same thing in a simple way: "Jesus saved me," "Jesus forgave me," "Jesus helped me obey," or "Jesus helped me when I was afraid." A testimony is telling the truth about what Jesus has done.
 
 ## Segue Into The Plan Of Salvation
 
