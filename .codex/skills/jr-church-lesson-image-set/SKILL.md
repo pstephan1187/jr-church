@@ -9,9 +9,14 @@ description: Use when creating, regenerating, or refining a cohesive set of 16:9
 
 Create a sequence of 16:9 lesson images that support teaching a Junior Church Bible lesson. The images should feel like they belong to the same lesson, match the parent series style, and provide distinct visual beats for the teacher to use during the lesson.
 
-## Required Supporting Skill
+## Required Reading
 
-Before generating, editing, moving, or validating any image asset, load and follow the `imagegen` skill. Use its built-in image generation path by default, its project-bound save-path rules, and its repeated-generation workflow when creating multiple images in one set.
+Before generating, editing, moving, or validating any image asset:
+
+1. Load and follow the `imagegen` skill. Use its built-in image generation path, its project-bound save-path rules, and its repeated-generation workflow when creating multiple images in one set.
+2. Read `.codex/skills/shared/jr-church-image-standards.md` and follow its tool policy, canvas conventions, asset-preservation rules, generation-economy rules, and shared verification. Its generation-economy rules matter most here: sets multiply the cost of every wasted generation.
+
+Hard rule from the tool policy: all artwork is rendered by imagegen. Scripts are only for mechanical operations such as checking dimensions or renaming files — never for drawing, patching, recoloring, or adding text.
 
 ## Inputs
 
@@ -34,11 +39,10 @@ If the lesson folder cannot be identified, ask for it. If image count is not pro
 5. Generate 16:9 PNG images by following the `imagegen` skill.
 6. Save outputs as `image-1.png`, `image-2.png`, and so on unless the user gives different filenames.
 
-Preserve existing PDFs, HTML, coloring pages, take-home files, covers, and non-target lesson images unless the user explicitly asks to replace them.
-
 ## Image Set Requirements
 
-- Canvas: every lesson image should be 16:9 PNG. Prefer 1672 x 941 when matching existing generated assets.
+Canvas, file paths, and asset preservation follow the shared standards. In addition:
+
 - Cohesion: keep the same art style, palette, lighting, character designs, clothing, setting logic, and rendering quality across the whole set.
 - Count: create one image for each lesson point, plus the introduction when the outline includes one. Do not lock the set to six images unless the user asks for exactly six.
 - Story flow: images should be easy to follow and almost tell the story themselves when viewed in order.
@@ -46,7 +50,7 @@ Preserve existing PDFs, HTML, coloring pages, take-home files, covers, and non-t
 - Distinction: each image should show a different teaching beat, not repeated variations of the same poster.
 - Continuity: keep the sequence mostly contiguous with the story. Some images may diverge symbolically or compositionally when that helps communicate a particular lesson point, but the set should still feel connected.
 - No logo requirement: ordinary lesson scene images usually do not need the series logo unless the user asks for branded slides.
-- Text: avoid embedded text unless the user explicitly requests it. Lesson images should work as visuals behind spoken teaching.
+- Text: avoid embedded text unless the user explicitly requests it. Lesson images should work as visuals behind spoken teaching. If text is requested, render it with imagegen in the series lettering style — never with a script or system font.
 - Faithfulness: base scenes on the passage and lesson outline. Do not add unsupported miracles, violence, romance, modern props, or comic exaggeration that changes the meaning.
 - Kid-facing tone: colorful, engaging, clear, and emotionally appropriate. Avoid gore, horror, sensualized characters, or humiliating depictions.
 
@@ -85,15 +89,14 @@ Composition: 16:9 classroom teaching visual, clear focal action, no text, colorf
 Avoid: extra text, inconsistent faces or costumes, unsupported Bible details, scary imagery, gore, dark mood, photorealistic adults.
 ```
 
-After each generation, inspect the image before moving to the next. If a character, style, setting, or Bible detail drifts, tighten the continuity note and regenerate that image before continuing.
+After each generation, inspect the image before moving to the next. If a character, style, setting, or Bible detail drifts, tighten the continuity note and regenerate only that image before continuing — never restart the whole set for one drifted image, and follow the shared per-image regeneration budget.
 
 ## Verification
 
-Before reporting completion:
+Run the shared verification from `jr-church-image-standards.md`, plus:
+
 - Confirm all expected `image-*.png` files exist in the lesson folder.
-- Check every generated image is PNG and 16:9 or very close to it.
 - View the set together enough to confirm style, characters, setting, and story flow are coherent.
 - Confirm the image count matches the lesson structure: introduction when present plus each lesson point, unless the user requested a different count.
 - Confirm each image matches its `lesson-image-plan.md` scene and the lesson outline or user brief.
 - Confirm each image reflects the context and teaching purpose of its point, not just the point text.
-- Confirm no non-target lesson assets were renamed or edited unless the user requested it.

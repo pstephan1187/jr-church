@@ -9,9 +9,14 @@ description: Use when creating, regenerating, or refining a transparent PNG Juni
 
 Create a reusable transparent PNG logo that becomes the visual anchor for a Junior Church lesson series. The logo should be colorful, readable at classroom-screen distance, and easy for later 16:9 cover-image skills to place inside larger scenes.
 
-## Required Supporting Skill
+## Required Reading
 
-Before generating, editing, post-processing, moving, or validating any image asset, load and follow the `imagegen` skill. Use its built-in image generation path by default, its project-bound save-path rules, and its transparent-image workflow for alpha PNG logos.
+Before generating, editing, post-processing, moving, or validating any image asset:
+
+1. Load and follow the `imagegen` skill. Use its built-in image generation path, its project-bound save-path rules, and its transparent-image workflow for alpha PNG logos.
+2. Read `.codex/skills/shared/jr-church-image-standards.md` and follow its tool policy, asset-preservation rules, generation-economy rules, and shared verification.
+
+Hard rule from the tool policy: the logo artwork and its lettering are rendered entirely by imagegen. Scripts are only for mechanical checks such as verifying dimensions or the alpha channel — never for drawing text, cleaning edges by painting, or filling backgrounds.
 
 ## Inputs
 
@@ -28,10 +33,9 @@ If the series name is missing, ask for it. If the art direction is missing, insp
 ## Repo Workflow
 
 1. Inspect `Series/<Series Name>/` when it exists. Read nearby lesson outline titles and view any existing `cover-graphic.png`, `image-*.png`, or `series-logo.png` files before prompting.
-2. Preserve existing PDFs, HTML, coloring pages, and lesson images unless the user explicitly asks to replace them.
-3. Generate or refine a transparent PNG logo image by following the `imagegen` skill.
-4. Save the final image at `Series/<Series Name>/series-logo.png` unless the user gave another path.
-5. Create or update `Series/<Series Name>/series-image-style.md` with the style lock so later image skills can match it.
+2. Generate or refine a transparent PNG logo image by following the `imagegen` skill.
+3. Save the final image at `Series/<Series Name>/series-logo.png` unless the user gave another path.
+4. Create or update `Series/<Series Name>/series-image-style.md` with the style lock so later image skills can match it.
 
 ## Logo Requirements
 
@@ -57,7 +61,7 @@ Background: fully transparent alpha background, no solid color, no scene, no whi
 Avoid: misspelled words, extra text, clutter, scary imagery, photorealistic adults, dark mood.
 ```
 
-After generation, inspect the image. If text is misspelled, cropped, too small, lacks transparency, has a white/colored background, or is inconsistent with the style lock, regenerate or edit before finishing.
+After generation, inspect the image. If text is misspelled, cropped, too small, lacks transparency, has a white/colored background, or is inconsistent with the style lock, fix it with a targeted imagegen edit or regeneration before finishing — follow the shared generation-economy budget rather than looping.
 
 ## Style Lock
 
@@ -81,8 +85,8 @@ Write `series-image-style.md` with these fields:
 
 ## Verification
 
-Before reporting completion:
-- Confirm the image file exists at the intended path.
+Run the shared verification from `jr-church-image-standards.md`, plus:
+
 - Check the image is a PNG with a real alpha channel and transparent background.
 - Check the logo fits comfortably inside a roughly square placement area and can be placed cleanly over 16:9 images.
 - Visually inspect that the exact series title is readable and not misspelled.

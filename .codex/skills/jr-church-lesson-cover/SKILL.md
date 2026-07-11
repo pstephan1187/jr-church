@@ -9,9 +9,14 @@ description: Use when creating, regenerating, or refining a 16:9 Junior Church l
 
 Create a 16:9 lesson-level cover image for a Junior Church lesson. The cover should match the series image style, include the approved transparent series logo, and depict the lesson's specific Bible focus clearly enough to distinguish it from the series cover and other lesson covers.
 
-## Required Supporting Skill
+## Required Reading
 
-Before generating, editing, compositing, moving, or validating any image asset, load and follow the `imagegen` skill. Use its built-in image generation path by default, its project-bound save-path rules, and its guidance for using local images as references or overlay assets.
+Before generating, editing, compositing, moving, or validating any image asset:
+
+1. Load and follow the `imagegen` skill. Use its built-in image generation path, its project-bound save-path rules, and its guidance for using local images as references or overlay assets.
+2. Read `.codex/skills/shared/jr-church-image-standards.md` and follow its tool policy, canvas conventions, asset-preservation rules, generation-economy rules, and shared verification.
+
+Hard rule from the tool policy: all artwork and all lettering (lesson title, scripture reference) is rendered by imagegen. Scripts are only for mechanical operations such as compositing the unmodified `series-logo.png` file or checking dimensions — never for drawing text or content.
 
 ## Inputs
 
@@ -33,16 +38,15 @@ If the lesson folder cannot be identified, ask for it. If the lesson outline is 
 4. Generate or composite a 16:9 PNG lesson cover by following the `imagegen` skill.
 5. Save the final image at the lesson folder's `cover-graphic.png` unless the user gave another path.
 
-Preserve existing PDFs, HTML, coloring pages, take-home files, and non-target lesson images unless the user explicitly asks to replace them.
-
 ## Lesson Cover Requirements
 
-- Canvas: 16:9 PNG. Prefer 1672 x 941 when matching existing generated assets; otherwise use a clean 16:9 size supported by the tool.
+Canvas, file paths, and asset preservation follow the shared standards. In addition:
+
 - Logo: include the transparent `series-logo.png` visibly, usually smaller than on the series cover. Preserve the approved series identity, but it is acceptable to add lesson-specific title or scripture-reference elements to the logo area when the logo is designed to support those additions naturally.
 - Lesson focus: depict one clear lesson-specific scene, symbol, setting, or character group tied to the passage and main point.
 - Composition: make the lesson scene the first read and the series logo the brand anchor. Leave safe space for projection cropping and future slide use.
 - Style: match `series-image-style.md` when present, including palette, rendering style, lighting, motifs, and texture treatment.
-- Text: avoid extra small text. The lesson title and scripture reference may be overlaid as a natural part of the logo system when the logo design supports it. If the logo does not support that cleanly, place the lesson title and scripture reference somewhere else in a graphically pleasing, cohesive way. Generated text always needs manual inspection.
+- Text: avoid extra small text. The lesson title and scripture reference, when included, must be rendered by imagegen — generated as part of the cover art or added with an imagegen edit pass — in the series lettering style. Integrate them with the logo system when the logo design supports it; otherwise place them elsewhere in a graphically pleasing, cohesive way. Never draw title or reference text with a script or system font, regardless of time pressure; if there is not enough time for imagegen, tell the user and let them choose between waiting or shipping without the text. Inspect all generated lettering and fix misspellings with a targeted regeneration or imagegen edit.
 - Theology and tone: keep imagery child-appropriate and faithful to the passage. Avoid adding unsupported miraculous effects, anachronisms, violence, gore, or mocking characterizations.
 
 ## Prompt Pattern
@@ -58,7 +62,7 @@ Composition: strong lesson focal scene, approved transparent series logo placed 
 Avoid: misspelled words, extra text, clutter, scary imagery, unsupported Bible details, dark mood, photorealistic adults.
 ```
 
-After generation, place or edit in the approved `series-logo.png` as an overlay if the tool did not preserve it cleanly. If adding lesson title or scripture reference around the logo, make the additions feel intentional and subordinate to the series identity. If the generated image includes a distorted, misspelled, or alternate logo, regenerate or edit it out before placing the approved logo and any lesson-specific text elements.
+After generation, composite the approved `series-logo.png` file as an overlay if the tool did not preserve it cleanly — this exact-file placement is the one operation a script may do. Lesson title or scripture reference additions are content, not overlays: produce them with imagegen, integrated with the artwork and subordinate to the series identity. If the generated image includes a distorted, misspelled, or alternate logo, regenerate or edit it out with imagegen before placing the approved logo.
 
 ## Style Notes
 
@@ -71,9 +75,7 @@ If the lesson cover clarifies a recurring series pattern, append a short note to
 
 ## Verification
 
-Before reporting completion:
-- Confirm the cover file exists at the intended path.
-- Check the cover is a PNG with 16:9 dimensions or very close to it.
-- Visually inspect that the approved series logo appears clearly and is not misspelled, distorted, cropped, or replaced by generated text. If lesson title or scripture reference text is present, confirm it is readable, correctly spelled, and either naturally integrated with the logo or placed elsewhere cohesively.
+Run the shared verification from `jr-church-image-standards.md`, plus:
+
+- If lesson title or scripture reference text is present, confirm it is readable, correctly spelled, rendered in the series lettering style by imagegen (not a script or system font), and either naturally integrated with the logo or placed elsewhere cohesively.
 - Confirm the scene reflects the lesson outline or user brief without unsupported details.
-- Confirm no non-target lesson assets were renamed or edited unless the user requested it.

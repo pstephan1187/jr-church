@@ -9,9 +9,14 @@ description: Use when creating, regenerating, or refining a 16:9 Junior Church p
 
 Create a 16:9 presentation background for a Junior Church lesson series. The background should match the series art style while staying quiet enough for slide text, Bible verses, memory verses, questions, or teaching notes to remain readable.
 
-## Required Supporting Skill
+## Required Reading
 
-Before generating, editing, moving, or validating any image asset, load and follow the `imagegen` skill. Use its built-in image generation path by default, its project-bound save-path rules, and its guidance for matching local reference images.
+Before generating, editing, moving, or validating any image asset:
+
+1. Load and follow the `imagegen` skill. Use its built-in image generation path, its project-bound save-path rules, and its guidance for matching local reference images.
+2. Read `.codex/skills/shared/jr-church-image-standards.md` and follow its tool policy, canvas conventions, asset-preservation rules, generation-economy rules, and shared verification.
+
+Hard rule from the tool policy: all artwork is rendered by imagegen. Scripts are only for mechanical operations such as compositing the unmodified `series-logo.png` file (when a branded variant is requested) or checking dimensions — never for drawing, blurring, gradients, or text.
 
 ## Inputs
 
@@ -33,11 +38,10 @@ If the series name is missing, ask for it. If no layout constraints are provided
 4. Save the final image at `Series/<Series Name>/presentation-background.png` unless the user gave another path.
 5. If the background establishes reusable slide rules, append a short presentation-background note to `series-image-style.md`.
 
-Preserve existing PDFs, HTML, coloring pages, lesson images, covers, and take-home assets unless the user explicitly asks to replace them.
-
 ## Background Requirements
 
-- Canvas: 16:9 PNG. Prefer 1672 x 941 when matching existing generated assets; otherwise use a clean 16:9 size supported by the tool.
+Canvas, file paths, and asset preservation follow the shared standards. In addition:
+
 - Purpose: support projected presentation slides. This is not a cover, title slide, or story illustration.
 - Readability: keep broad low-detail safe areas for slide text. Avoid busy focal action behind likely text zones.
 - Logo: do not include the series logo by default unless the user asks for a branded background or title-slide background. If included, use the transparent `series-logo.png` cleanly and keep it subordinate to slide readability.
@@ -70,7 +74,7 @@ Logo: [none by default, or exact placement if requested].
 Avoid: embedded text, title lettering, clutter, high-contrast details in text area, scary imagery, dark mood, photorealistic adults.
 ```
 
-After generation, inspect at full size and thumbnail size. If the background competes with text, has unwanted lettering, or reads like a cover poster, regenerate with stronger safe-area and low-detail instructions.
+After generation, inspect at full size and thumbnail size. If the background competes with text, has unwanted lettering, or reads like a cover poster, regenerate with stronger safe-area and low-detail instructions, within the shared regeneration budget.
 
 ## Style Lock Note
 
@@ -84,10 +88,8 @@ Do not rewrite the whole style lock just to add the background note.
 
 ## Verification
 
-Before reporting completion:
-- Confirm the background file exists at the intended path.
-- Check the background is a PNG with 16:9 dimensions or very close to it.
+Run the shared verification from `jr-church-image-standards.md`, plus:
+
 - Visually inspect that it has usable text-safe space and no unwanted embedded text.
 - Confirm it matches the series style without duplicating the cover composition.
 - If the logo is included, confirm it uses the approved transparent logo and remains subordinate to readability.
-- Confirm no unrelated lesson assets were renamed or edited unless the user requested it.
