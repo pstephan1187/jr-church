@@ -1,3 +1,8 @@
+---
+Tags: Some, Tags, Here
+
+---
+
 # A Flooded Boat
 
 ## Lesson Brief
@@ -9,80 +14,74 @@
 - **Main Point:** Jesus has power over every storm, so we can trust Him when we are afraid.
 
 ## Memory Verse
-> **Matthew 8:27** But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
-
+> **Matthew 8:27**
+> But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
 
 ## Lesson Outline
 
-### 1. Following Jesus Did Not Keep The Disciples Out Of The Storm
+We are at a part of a story of Jesus where he recently began teaching his disciples.His disciples had only just started following him not too long ago. Even though they knew that he was the Messiah, that he was the Son of God, they still saw him as a man, a teacher, a person of great wisdom. They didn’t really know what he was capable of, the great and mighty miracles that he was going to perform. 
 
-**Summary/Lesson:** Jesus got into a ship, and His disciples followed Him. They were not disobeying when the storm came. They were right where Jesus had led them. That matters because sometimes children think, "If I obey God, nothing scary will ever happen." But the Bible does not teach that.
+Here Jesus had recently finished preaching and teaching and performing miracles for the day. They were getting ready to get into a ship to cross the Sea of Galilee.
 
-The storm came while the disciples were with Jesus. Obeying God does not mean every day will be easy, safe, or calm. It means we can trust the Lord even when the wind starts blowing and the waves get high.
+### 1. Into The Ship With Jesus
+> **Matthew 8:23** And when he was entered into a ship, his disciples followed him.
+![](image-1.png)
+**Summary/Lesson:** Picture the edge of the Sea of Galilee. Jesus steps into a ship, and the disciples climb in after Him.
+>Let the children pretend to step over the side, find a seat, and begin rowing.
+The water moves beneath the boat, the shore slips farther away, and everything is just fine. It’s a beautiful peaceful day on the water. No huge groups of people, no screaming crazy person, no one throwing rocks. Most importantly, Jesus is in the ship with them.
 
-**Main Passage:** Matthew 8:23-24
+> Let the peaceful beginning make the sudden danger feel even greater.
+This is the disciples happy place. They are with Jesus, without any other people around. Instead of tending to everyone else’s needs, they are able to talk to Jesus themselves and ask questions and let Him help them. They get to talk with their master.
 
-**Supporting Scriptures:** John 16:33 - Jesus told His disciples they would have tribulation in the world. Psalm 34:19 - the righteous may have many afflictions, but the Lord delivers. 2 Timothy 3:12 - living godly does not remove every hard thing.
+### 2. Without Warning, The Storm Struck
+> **Matthew 8:24a** And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves…
+![](image-2.png)
 
-**Practical Application for Children:** When something hard happens, do not immediately think, "God must have left me," or, "I must not be doing right." A child can obey parents, tell the truth, come to church, and still face sickness, fear, sadness, or trouble. The right response is to stay close to Jesus.
+**Summary/Lesson:** after being out at sea for a few hours, clouds started forming over the horizon. It started to get dark. The wind picked up, but at this point it was too late. 
 
-**Illustration:** If a child follows a teacher on a field trip and rain starts pouring, the child did not do wrong by following the teacher. The rain is real, but the teacher is still there. The disciples followed Jesus, and the storm was real, but Jesus was still in the boat.
+> **Illustration:** Have the children create the storm with you: rub hands for wind, pat knees for rain, stomp for thunder, and then BOOM! lightning!
 
-### 2. The Storm Was Bigger Than The Disciples
+They were already too far from shore to turn back. The wind started beating against the boat. Waves crashed over the side and were tossed to and fro. The calm trip is over. Matthew calls it "a great tempest in the sea." 
 
-**Summary/Lesson:** The Bible says there was a great tempest, and the waves covered the ship. Mark says the waves beat into the ship so that it was now full. Luke says they were filled with water and were in jeopardy. These men were not pretending to be afraid. Some of them were fishermen who knew boats and water, and even they knew this storm was dangerous.
+> Make the sound of a low wind and invite the children to join you. Let it grow louder. Rock from side to side. The boat rises, drops, and tilts. Then a wave crashes over the side. The disciples are wet, the deck is slippery, and the ship is being covered by the waves.
 
-The disciples had strength, experience, and knowledge, but the storm was bigger than all of it. That is a humbling lesson. People can know many things, practice many skills, and try very hard, but there are still troubles we cannot control.
+The ship rose with the high waves and crashed down on the other side. They started were scared and they began fearing for their lives. Even though some of the disciples, like Peter and Andrew and James and John, had experience working on the boats in the sea, this storm was too big for them. 
 
-**Main Passage:** Matthew 8:24-25
+That is what makes their fear so important. If men who knew boats and storms believed they were about to die, this was no small rain cloud. They knew what to do in ordinary trouble, but everything they knew was not enough. They could work hard, but they could not command the storm.
+> “If even these experienced fishermen thought they were going to die, how terrible must this storm have been?"
 
-**Supporting Scriptures:** Psalm 107:23-30 - sailors are brought to their wit's end, and the Lord brings them to their desired haven. Proverbs 3:5-6 - we must trust the Lord instead of leaning only on our own understanding. Jeremiah 10:23 - man's way is not in himself.
+### 3. The One Person Who Could Help Was Asleep
+![](image-3.png)
+**Summary/Lesson:** The waves are covering the ship—but where is Jesus?
+> **Matthew 8:24-25** …but he was asleep. And his disciples came to him, and awoke him, saying, Lord, save us: we perish.
 
-**Practical Application for Children:** Children should do what is right and use the help God gives them, but they must not trust themselves more than they trust God. When a problem is too big, too confusing, or too scary, the Lord is not confused or helpless.
+Can you believe that?! In the middle of the storm, Jesus is sleeping! And it’s not like He was in a house in his bed But he was in the storm it was raining on him the wind was howling around him he was soaking wet from the rain and the waves splashing on him and the lightning crashing around him and yet he slept! He must have been so incredibly tired after serving people and teaching all day.
 
-**Illustration:** A child may be able to carry a backpack, a lunchbox, and a book, but if someone puts a heavy table in front of him, he cannot move it alone. He needs someone stronger. The disciples could handle ordinary waves, but this storm showed them they needed someone greater than themselves.
+Finally, the disciples wake Him: "Lord, save us: we perish." The boat is still rocking. The wind is still howling. The waves are still coming. Jesus opens His eyes and rises. What is Jesus going to do? He wasn’t a great sea captain that was going to take the helm of the boat and gracefully lead it to shore. He wasn’t some mighty swimmer that could carry them all to shore if the boat sank. Whatever they though Jesus would do, it wasn’t this…
 
-### 3. Jesus Was With Them Even While They Were Afraid
+### 4. Jesus Stood Up In The Storm
+> **Matthew 8:26** And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm.
+![](image-4.png)
+**Summary/Lesson:** Jesus does not panic. He doesn’t get up in fear. He doesn’t jump into the water fearing the boat will break. First He asks the disciples, "Why are ye fearful, O ye of little faith?" The storm looks enormous to them, but Jesus knows it is not greater than He is. It’s not more powerful than God. Knowing that He has complete power over the wind, lightning, and the sea, He gets up and commands “Peace, be still”.
 
-**Summary/Lesson:** While the storm raged, Jesus was asleep. That does not mean He did not care. Jesus was truly man, and He was tired. But Jesus was also truly God, and He was never in danger of losing control. The disciples looked at the storm and thought they were going to perish, but Jesus was right there with them.
+One moment there is roaring wind, crashing water, mighty thunder, fearful men, and a boat in danger; the next moment there is "a great calm." The sea does not argue with Christ. The wind does not need to be told twice. Jesus does not need ropes, sails, or stronger sailors. The Lord of creation speaks with authority, and the whole storm obeys Him immediately.
 
-The disciples cried, "Lord, save us: we perish." Mark records their fearful question: "Master, carest thou not that we perish?" Fear can make people think wrong thoughts about God. The storm made them wonder if Jesus cared, but His presence in the boat already showed that they were not alone.
+> **Psalms 89:8-9** O LORD God of hosts, who is a strong LORD like unto thee? or to thy faithfulness round about thee? Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.
 
-**Main Passage:** Matthew 8:24-25
+**Practical Application for Children:** Jesus is never frightened, confused, or overpowered. He sees the storm, He knows it’s there, and He knows you’re afraid. But He is there  He may not always remove our trouble immediately, but no trouble is ever stronger than He is.
 
-**Supporting Scriptures:** Hebrews 13:5 - the Lord says, "I will never leave thee, nor forsake thee." Psalm 23:4 - God is with His people even in the valley of the shadow of death. 1 Peter 5:7 - we can cast our care on Him because He cares for us.
+### 5. Who Is This Man?
+![](image-5.png)**Summary/Lesson:** Remember, the disciples hadn’t been with Jesus for very long at this point, and so they weren’t as familiar with His miracles. When they saw Jesus do this, they were shocked! You would be too!
 
-**Practical Application for Children:** When children are afraid, they may feel like nobody knows or cares. They should learn to pray honestly and run to the Lord. Jesus is not annoyed by a child who comes to Him scared and needing help.
+> **Matthew 8:27** But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
 
-**Illustration:** At night, a child may wake up scared because the room feels dark and strange. If a parent is in the room, the darkness may still be there, but the child is not alone. The disciples saw waves and water, but Jesus was in the boat.
+The most amazing part of the story is not how large the storm was. It is Who had been in their boat the entire time. Jesus is more than a teacher and more than an ordinary man. He is the Son of God, the Lord of creation.
 
-### 4. Jesus Spoke And The Storm Obeyed
+They followed Jesus, yet a storm still came. Even the skill and strength of experienced fishermen were not enough. When they feared for their lives, they called on Him. Jesus showed that He was greater than the thing they feared. The storm was real, but it was never greater than Jesus. Faith is not pretending that nothing is scary; faith is remembering Who Jesus is and trusting Him when we are afraid.
 
-**Summary/Lesson:** Jesus arose and rebuked the wind and the sea. Mark gives His words: "Peace, be still." The wind ceased, and there was a great calm. Jesus did not need a tool, a rope, a bigger boat, or more sailors. He spoke, and creation obeyed Him.
+> **Isaiah 41:10** Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.
 
-This shows the children that Jesus is not only a good teacher or a kind helper. He is the Son of God. The wind and sea obey His voice because He is Lord over them. The disciples had seen a great storm; now they saw a greater Savior.
-
-**Main Passage:** Matthew 8:26-27
-
-**Supporting Scriptures:** Colossians 1:16-17 - all things were created by Him and consist by Him. John 1:3 - all things were made by Him. Psalm 89:8-9 - the Lord rules the raging of the sea.
-
-**Practical Application for Children:** Children can trust Jesus because He is powerful. He may not always remove a problem the moment we ask, but He is never weaker than the problem. The wind, the waves, sickness, sadness, danger, and death are not stronger than Christ.
-
-**Illustration:** If a noisy classroom will not quiet down for another student, the teacher can speak with authority and the room becomes quiet. Authority changes things. The storm was loud and dangerous, but when Jesus spoke, the wind and sea obeyed.
-
-### 5. Jesus Taught Them To Choose Faith Over Fear
-
-**Summary/Lesson:** After Jesus calmed the storm, He asked, "Why are ye fearful, O ye of little faith?" He was not saying the storm was imaginary. The storm was real. The danger felt real. But the disciples had forgotten Who was with them.
-
-The disciples marvelled and asked, "What manner of man is this, that even the winds and the sea obey him!" The storm became a lesson. They learned more about Jesus than they had known before. Their fear was not the end of the story; Jesus used the storm to show His power and grow their faith.
-
-**Main Passage:** Matthew 8:26-27
-
-**Supporting Scriptures:** Isaiah 41:10 - God tells His people not to fear because He is with them. Psalm 46:1-3 - God is our refuge and strength even if the earth is moved. Romans 10:17 - faith grows by hearing the Word of God.
-
-**Practical Application for Children:** Faith does not mean pretending nothing is scary. Faith means remembering Who Jesus is and trusting Him while we are scared. Children can pray, quote Scripture, obey the next right thing, and remember that Jesus is greater than what frightens them.
-
-**Illustration:** A child learning to swim may be afraid in the deep end, but if a strong instructor is holding him, he can learn to trust. The water feels big, but the helper is stronger. The disciples had to learn that the storm was big, but Jesus was greater.
+**Practical Application for Children:** When fear comes, remember the whole story: stay close to Jesus, call on Him, and trust that He is greater than anything you face. Just continue obeying Him and He will be there with you
 
 ## Segue Into The Plan Of Salvation
 
@@ -94,16 +93,3 @@ Jesus came because He cares for sinners. He lived without sin, died on the cross
 
 If you know you are a sinner, do not try to fix yourself first. Come to Jesus. Believe that He died and rose again for you. Ask Him to save you. The greatest peace is not just having a quiet day or a calm life. The greatest peace is being forgiven and made right with God through the Lord Jesus Christ.
 
-## Main Applications For The Kids
-
-- Following Jesus does not mean nothing hard or scary will happen.
-- When you are afraid, run to Jesus first and pray honestly.
-- Jesus cares for His people even when fear makes it hard to feel that.
-- Jesus is Lord over the wind, the sea, and every problem children face.
-- Faith means remembering Who Jesus is and trusting Him more than your fear.
-
-## Teacher Notes
-
-- Keep the storm vivid, but do not make the lesson only about excitement. The main point is Christ's authority and the call to trust Him.
-- If children mention real fears, acknowledge that some fears are serious. Do not shame children for being afraid; point them to prayer, Scripture, wise adults, and trust in the Lord.
-- Possible review questions: Who got into the ship first? What happened while Jesus was asleep? What did the disciples ask Jesus to do? What words did Jesus speak to the storm? What happened after Jesus spoke? Why did Jesus ask them about fear and faith? What does this story teach us about Who Jesus is?
