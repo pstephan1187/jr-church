@@ -81,7 +81,11 @@ They followed Jesus, yet a storm still came. Even the skill and strength of expe
 
 > **Isaiah 41:10** Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.
 
-**Practical Application for Children:** When fear comes, remember the whole story: stay close to Jesus, call on Him, and trust that He is greater than anything you face. Just continue obeying Him and He will be there with you
+**Practical Application for Children:** Storms in our lives are hard and frightening things we cannot always control, such as sickness, trouble at home, someone being unkind, or losing someone we love. Following Jesus does not mean that storms will never come. The disciples were following Jesus when their storm began, and Jesus was still with them in the boat. Faith does not mean pretending we are not afraid; it means remembering that Jesus sees us, cares for us, and is greater than our trouble. Our feelings may shout, "Everything is wrong!" Faith answers, "Jesus knows my struggle."
+
+When a storm comes, call on Jesus as the disciples did. Tell Him honestly what is frightening or difficult and ask Him for help. Remember His promises in the Bible, talk to a parent, teacher, or pastor, and keep obeying God's Word. Do not let fear push you toward lying, anger, hiding sin, or disobedience. Trust Christ enough to keep following Him even before the storm becomes calm.
+
+Sometimes Jesus removes a problem quickly, as He did on the sea. At other times, He allows the trouble to continue while giving us strength, wisdom, help, and peace. Faith trusts Christ in either case. Our confidence is not that every storm will end exactly when or how we want, but that Jesus will never leave us and is always greater than the storm.
 
 ## Segue Into The Plan Of Salvation
 
@@ -93,3 +97,25 @@ Jesus came because He cares for sinners. He lived without sin, died on the cross
 
 If you know you are a sinner, do not try to fix yourself first. Come to Jesus. Believe that He died and rose again for you. Ask Him to save you. The greatest peace is not just having a quiet day or a calm life. The greatest peace is being forgiven and made right with God through the Lord Jesus Christ.
 
+## Review Questions
+
+1. Easy: What book of the Bible is today's story from?
+2. Easy: Who got into the ship first?
+3. Easy: Who followed Jesus into the ship?
+4. Easy: What happened while they were out on the sea?
+5. Easy: What was Jesus doing while the storm covered the ship with waves?
+6. Easy: What did the disciples cry when they woke Jesus?
+7. Easy: What happened after Jesus rebuked the winds and the sea?
+8. Easy: What question did the amazed disciples ask about Jesus?
+9. Medium: Which disciples had worked as fishermen before Jesus called them?
+10. Medium: Why is it important that several disciples were experienced fishermen?
+11. Medium: Did the storm come because the disciples had disobeyed Jesus?
+12. Medium: What did Jesus ask the disciples before He calmed the storm?
+13. Medium: What does the wind and sea obeying Jesus teach us about Who He is?
+14. Medium: Does having faith mean pretending that we are never afraid?
+15. Medium: What are some "storms" a child might face in life?
+16. Medium: What can a child do when something frightening happens?
+17. Hard: Why can we trust Jesus even when He does not remove a problem immediately?
+18. Hard: How can fear tempt a child to make a wrong choice, and what should the child do instead?
+19. Hard: What is the difference between trusting that Jesus is in control and expecting Him to do exactly what we want?
+20. Hard: What greater problem do all people need Jesus to save them from?
