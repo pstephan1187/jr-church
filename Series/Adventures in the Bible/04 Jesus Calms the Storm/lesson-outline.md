@@ -87,6 +87,16 @@ When a storm comes, call on Jesus as the disciples did. Tell Him honestly what i
 
 Sometimes Jesus removes a problem quickly, as He did on the sea. At other times, He allows the trouble to continue while giving us strength, wisdom, help, and peace. Faith trusts Christ in either case. Our confidence is not that every storm will end exactly when or how we want, but that Jesus will never leave us and is always greater than the storm.
 
+**God's Promises To Remember:**
+
+- **God promises never to leave or forsake us.**
+  > **Hebrews 13:5-6** Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.
+- **God promises that we can bring our worries to Him because He cares for us.**
+  > **1 Peter 5:7** Casting all your care upon him; for he careth for you.
+- **God promises to be a refuge and present help in trouble.**
+  > **Psalms 46:1-2** God is our refuge and strength, a very present help in trouble. Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;
+
+
 ## Segue Into The Plan Of Salvation
 
 The disciples were in a storm they could not control. They could not command the wind to stop. They could not make the waves obey. They needed Jesus to save them.
