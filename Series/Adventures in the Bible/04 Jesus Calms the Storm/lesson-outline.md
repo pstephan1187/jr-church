@@ -2,7 +2,6 @@
 Tags: Some, Tags, Here
 
 ---
-
 # A Flooded Boat
 
 ## Lesson Brief
@@ -14,6 +13,7 @@ Tags: Some, Tags, Here
 - **Main Point:** Jesus has power over every storm, so we can trust Him when we are afraid.
 
 ## Memory Verse
+
 > **Matthew 8:27**
 > But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
 
@@ -24,18 +24,20 @@ We are at a part of a story of Jesus where he recently began teaching his discip
 Here Jesus had recently finished preaching and teaching and performing miracles for the day. They were getting ready to get into a ship to cross the Sea of Galilee.
 
 ### 1. Into The Ship With Jesus
+
 > **Matthew 8:23** And when he was entered into a ship, his disciples followed him.
-![](image-1.png)
-**Summary/Lesson:** Picture the edge of the Sea of Galilee. Jesus steps into a ship, and the disciples climb in after Him.
->Let the children pretend to step over the side, find a seat, and begin rowing.
-The water moves beneath the boat, the shore slips farther away, and everything is just fine. It’s a beautiful peaceful day on the water. No huge groups of people, no screaming crazy person, no one throwing rocks. Most importantly, Jesus is in the ship with them.
+> ![](image-1.png)
+> **Summary/Lesson:** Picture the edge of the Sea of Galilee. Jesus steps into a ship, and the disciples climb in after Him.
+> Let the children pretend to step over the side, find a seat, and begin rowing.
+> The water moves beneath the boat, the shore slips farther away, and everything is just fine. It’s a beautiful peaceful day on the water. No huge groups of people, no screaming crazy person, no one throwing rocks. Most importantly, Jesus is in the ship with them.
 
 > Let the peaceful beginning make the sudden danger feel even greater.
-This is the disciples happy place. They are with Jesus, without any other people around. Instead of tending to everyone else’s needs, they are able to talk to Jesus themselves and ask questions and let Him help them. They get to talk with their master.
+> This is the disciples happy place. They are with Jesus, without any other people around. Instead of tending to everyone else’s needs, they are able to talk to Jesus themselves and ask questions and let Him help them. They get to talk with their master.
 
 ### 2. Without Warning, The Storm Struck
+
 > **Matthew 8:24a** And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves…
-![](image-2.png)
+> ![](image-2.png)
 
 **Summary/Lesson:** after being out at sea for a few hours, clouds started forming over the horizon. It started to get dark. The wind picked up, but at this point it was too late. 
 
@@ -48,11 +50,14 @@ They were already too far from shore to turn back. The wind started beating agai
 The ship rose with the high waves and crashed down on the other side. They started were scared and they began fearing for their lives. Even though some of the disciples, like Peter and Andrew and James and John, had experience working on the boats in the sea, this storm was too big for them. 
 
 That is what makes their fear so important. If men who knew boats and storms believed they were about to die, this was no small rain cloud. They knew what to do in ordinary trouble, but everything they knew was not enough. They could work hard, but they could not command the storm.
+
 > “If even these experienced fishermen thought they were going to die, how terrible must this storm have been?"
 
 ### 3. The One Person Who Could Help Was Asleep
+
 ![](image-3.png)
 **Summary/Lesson:** The waves are covering the ship—but where is Jesus?
+
 > **Matthew 8:24-25** …but he was asleep. And his disciples came to him, and awoke him, saying, Lord, save us: we perish.
 
 Can you believe that?! In the middle of the storm, Jesus is sleeping! And it’s not like He was in a house in his bed But he was in the storm it was raining on him the wind was howling around him he was soaking wet from the rain and the waves splashing on him and the lightning crashing around him and yet he slept! He must have been so incredibly tired after serving people and teaching all day.
@@ -60,9 +65,10 @@ Can you believe that?! In the middle of the storm, Jesus is sleeping! And it’s
 Finally, the disciples wake Him: "Lord, save us: we perish." The boat is still rocking. The wind is still howling. The waves are still coming. Jesus opens His eyes and rises. What is Jesus going to do? He wasn’t a great sea captain that was going to take the helm of the boat and gracefully lead it to shore. He wasn’t some mighty swimmer that could carry them all to shore if the boat sank. Whatever they though Jesus would do, it wasn’t this…
 
 ### 4. Jesus Stood Up In The Storm
+
 > **Matthew 8:26** And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm.
-![](image-4.png)
-**Summary/Lesson:** Jesus does not panic. He doesn’t get up in fear. He doesn’t jump into the water fearing the boat will break. First He asks the disciples, "Why are ye fearful, O ye of little faith?" The storm looks enormous to them, but Jesus knows it is not greater than He is. It’s not more powerful than God. Knowing that He has complete power over the wind, lightning, and the sea, He gets up and commands “Peace, be still”.
+> ![](image-4.png)
+> **Summary/Lesson:** Jesus does not panic. He doesn’t get up in fear. He doesn’t jump into the water fearing the boat will break. First He asks the disciples, "Why are ye fearful, O ye of little faith?" The storm looks enormous to them, but Jesus knows it is not greater than He is. It’s not more powerful than God. Knowing that He has complete power over the wind, lightning, and the sea, He gets up and commands “Peace, be still”.
 
 One moment there is roaring wind, crashing water, mighty thunder, fearful men, and a boat in danger; the next moment there is "a great calm." The sea does not argue with Christ. The wind does not need to be told twice. Jesus does not need ropes, sails, or stronger sailors. The Lord of creation speaks with authority, and the whole storm obeys Him immediately.
 
@@ -71,6 +77,7 @@ One moment there is roaring wind, crashing water, mighty thunder, fearful men, a
 **Practical Application for Children:** Jesus is never frightened, confused, or overpowered. He sees the storm, He knows it’s there, and He knows you’re afraid. But He is there  He may not always remove our trouble immediately, but no trouble is ever stronger than He is.
 
 ### 5. Who Is This Man?
+
 ![](image-5.png)**Summary/Lesson:** Remember, the disciples hadn’t been with Jesus for very long at this point, and so they weren’t as familiar with His miracles. When they saw Jesus do this, they were shocked! You would be too!
 
 > **Matthew 8:27** But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
@@ -90,10 +97,15 @@ Sometimes Jesus removes a problem quickly, as He did on the sea. At other times,
 **God's Promises To Remember:**
 
 - **God promises never to leave or forsake us.**
+
   > **Hebrews 13:5-6** Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.
+
 - **God promises that we can bring our worries to Him because He cares for us.**
+
   > **1 Peter 5:7** Casting all your care upon him; for he careth for you.
+
 - **God promises to be a refuge and present help in trouble.**
+
   > **Psalms 46:1-2** God is our refuge and strength, a very present help in trouble. Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;
 
 
