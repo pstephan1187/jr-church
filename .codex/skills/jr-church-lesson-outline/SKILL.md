@@ -37,7 +37,14 @@ If a required input is missing, ask only for the missing information. If the use
 - For symbolism or types, label what is explicit, what is a reasonable connection, and what is only an illustration.
 - Avoid moralism. Show that good choices matter, but they do not save anyone; children need Jesus to save them from sin.
 - Keep language concrete and teachable for children. Use everyday illustrations, short applications, and clear transitions.
-- Default to KJV references and verse wording when quoting, because existing take-home materials use KJV-style wording. Use a different translation only if the user requests it.
+- Only use KJV references and verse wording when quoting. Do not use other translations or versions of the Bible.
+
+## Lesson Style
+- The purpose of preaching the lesson is to encourage the Children to make a decision or call them to action.
+- We want to keep the attention of the Children. Employ best practices for capturing their attention and keeping it.
+- Use the common story arc: show the problem, create excitement; draw to a climax; resolve; call to a decision or action.
+- Keep things practical for children ages 4-12 years old
+- Use real-world illustrations as necessary.
 
 ## Workflow
 
@@ -78,9 +85,9 @@ Use this structure exactly, adapting headings only when the user requests a diff
 
 ### 1. [Point Title]
 
-**Summary/Lesson:** [One or two short paragraphs explaining this point from the passage.]
-
 **Main Passage:** [Corresponding verse(s) from the main passage.]
+
+**Summary/Lesson:** [One or two short paragraphs explaining this point from the passage.]
 
 **Supporting Scriptures:** [Possible supporting scriptures elsewhere in the Bible, each with a short reason.]
 
@@ -102,9 +109,9 @@ Use this structure exactly, adapting headings only when the user requests a diff
 - [application]
 - [application]
 
-## Teacher Notes
+## Optional Games
 
-- [Optional pacing, questions, caution about difficult details, or ideas for review.]
+- [1-3 Game ideas that can be played by the group. It can allow for individual winners or for team-style play. If it has a tie-in to the lesson, that's good but not necessary.]
 ```
 
 ## Quality Check
