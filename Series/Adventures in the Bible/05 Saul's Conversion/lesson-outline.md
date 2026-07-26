@@ -24,6 +24,8 @@
 
 shortly after Jesus went back to heaven, the disciples went out and told people everywhere about everything that he had done, and lots of people got saved and became Christians. People started following God and obeying God. They went out and told others, and lots of people started believing.
 
+![image-1](image-1.png)
+
 this made some people very mad. They didn't like that people were following Jesus. and I want you guys to remember that when we decide to follow Jesus and do right, it's going to make some people mad. And some people aren't going to like us because of it. And they don't like it. Because when we follow Jesus, it shows them where their sin is and it makes them feel bad.
 
 there was one man in particular who really hated the Christians. He would go around looking for Christians that he could throw in jail or have killed. this man was named Saul.
@@ -40,6 +42,8 @@ there was one man in particular who really hated the Christians. He would go aro
 >
 > And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.
 
+![image-2](image-2.png)
+
 **Summary/Lesson:** Stephen, was a man who loved Jesus and boldly told the truth. some men got mad at the things that he was saying about Jesus, and they dragged him outside Jerusalem and threw stones at him until he died.
 
 Nearby stood a young man named Saul. Saul did not throw the stones, as far as Scripture tells us, but he gave everyone permission to throw the stones. Acts 8:1 says that Saul was "consenting unto his death."
@@ -53,6 +57,8 @@ Stephen was killed for preaching Jesus, and Saul stood with the people who kille
 > **Acts 8:3**
 >
 > As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison.
+
+![image-3](image-3.png)
 
 **Summary/Lesson:** Stephen's death was not enough for Saul. A great persecution began, and believers fled from Jerusalem. Imagine Christian families listening for footsteps outside their doors. Imagine parents trying to keep their children quiet when someone pounded on the door. Saul entered house after house, dragged away both men and women, and had them put in prison. could you imagine being at home and a man breaks down your door and grabs your parents and hauls them off to jail, just because you were a Christian?
 
@@ -69,6 +75,8 @@ The Bible says Saul "made havock of the church." He was trying to tear it apart.
 >
 > And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest, And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.
 
+![image-4](image-4.png)
+
 **Summary/Lesson:** Saul heard that there were followers of Jesus in Damascus, a city more than one hundred miles away. That was not too far for him. He went to the high priest and asked for official letters giving him authority to arrest them. Then he started down the road with companions, determined to return with Christian men and women as prisoners.
 
 the Christians there may have thought they were safe from Saul, because they were so far away. But Saul knew about them, and he was coming for them! Saul had authority in his hand, hatred in his heart, and the begging of Christians in his ear. He thought he was the hunter. But there was Someone Saul had not planned to meet on that road.
@@ -80,6 +88,8 @@ the Christians there may have thought they were safe from Saul, because they wer
 > **Acts 9:3-6**
 >
 > And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven: And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks. And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.
+
+![image-5](image-5.png)
 
 **Summary/Lesson:** Just as Saul came near Damascus, a light from heaven suddenly shone around him. It was brighter than the midday sun.
 
@@ -101,6 +111,8 @@ Saul arose from the ground, but he could not see. The powerful man who planned t
 
 ### 5. Jesus Sent Ananias To His Frightened Enemy
 
+![image-6](image-6.png)
+
 **Summary/Lesson:** In Damascus lived a disciple named Ananias. The Lord told him where Saul was and commanded him to go. Ananias knew Saul's reputation. He had heard how much evil Saul had done, and he knew Saul had come to arrest believers like him. He was scared that Saul would arrest him—but Jesus told him to go.
 
 When Ananias entered the house, he did something incredible. He put his hands on the person that spent so much time and energy killing Christians and called him "Brother Saul." Jesus had a purpose for the man everyone else knew as an enemy. Saul would carry Christ's name to Gentiles, kings, and Israel. The man who had tried to silence the name of Jesus would spend the rest of his life proclaiming it.
@@ -116,6 +128,8 @@ When Ananias entered the house, he did something incredible. He put his hands on
 > And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized. And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus. And straightway he preached Christ in the synagogues, that he is the Son of God.
 
 **Summary/Lesson:** As soon as Ananias called him "Brother Saul" Saul could see again. He got up, was baptized, and spent few days with the very people he had intended to arrest and kill. Then he entered the synagogues (buildings like churches)—but this time not to hunt Christians. He preached that Jesus is the Son of God. Everyone who heard him were confused and amazed. They knew what Saul had done in Jerusalem and why he had come to Damascus.
+
+![image-7](image-7.png)
 
 Jesus did not merely improve Saul's manners or calm down his temper. Jesus gave him a new life, a new family, and a new purpose. Saul's past was still real, and he never pretended otherwise. Years later he called himself the chief of sinners, but he also joyfully said, "Christ Jesus came into the world to save sinners" (1 Timothy 1:15). Saul's terrible past became evidence of Christ's astonishing love and mercy.
 
