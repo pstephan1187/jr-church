@@ -15,6 +15,8 @@
 > **Acts 9:19-20**
 > And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus. And straightway he preached Christ in the synagogues, that he is the Son of God.
 
+![image-1](image-1.png)
+
 **Summary/Lesson:** Saul had traveled toward Damascus planning to arrest and kill Christians. Then Jesus stopped him on the road with a bright light. Saul entered the city blind and had to be led by the hand. God sent Ananias to him, Saul received his sight, and the feared enemy was now "Brother Saul."
 
 Now Saul was spending time with the very Christians he had intended to capture. He immediately started telling people about Jesus and preaching in the synagogues. The change in his life was immediate and huge. Saul did not merely say that he had changed. He didn't keep doing all the things he was doing before. His life was completely different now! He stopped hunting Christians, he stopped killing people, he ended his exceeding anger, he started preaching, he started telling other about Jesus, he changed his friends. Jesus had completely changed his life.
@@ -29,6 +31,8 @@ Now Saul was spending time with the very Christians he had intended to capture. 
 
 > **Acts 9:21-22**
 > But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests? But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ.
+
+![image-2](image-2.png)
 
 **Summary/Lesson:** The people who heard Saul were amazed. They asked whether this was really the same man who had arrested and killed Christians in Jerusalem and had come to Damascus to arrest more of them. It was the same Saul, **but he no longer served the same master.**
 
@@ -46,6 +50,8 @@ Saul "increased the more in strength" and proved from the Scriptures that Jesus 
 
 > **2 Corinthians 11:32**
 > In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:
+
+![image-3](image-3.png)
 
 **Summary/Lesson:** The Bible says that "after that many days were fulfilled," the Jews took counsel to kill Saul. The man who had once hunted Christians was now being hunted himself! Saul's obedience did not make everyone applaud him. The same people he used to work with to arrest and kill Christians were now super angry at him. They wanted him dead!
 
@@ -67,6 +73,8 @@ That the governor of Damascus guarded every gate because he wanted to capture Sa
 > **2 Corinthians 11:32**
 > In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:
 
+![image-4](image-4.png)
+
 **Summary/Lesson:** Saul found out about the governor's plan, but escaping Damascus would not be easy. The city was surrounded by a great wall, and his enemies watched the gates "day and night" so they could kill him. Ask the children to picture each gate with guards staring at every traveler. Morning passed, but the guards stayed. Night fell, but the guards stayed. Every ordinary road out of the city appeared closed.
 
 Even though it seemed like Saul was going to die, God had a plan. God knew the plot, allowed it to be discovered, and placed other believers around Saul. God did not make the walls disappear or strike every guard asleep. His help would come in a surprising way.
@@ -83,13 +91,15 @@ Even though it seemed like Saul was going to die, God had a plan. God knew the p
 > **2 Corinthians 11:33**
 > And through a window in a basket was I let down by the wall, and escaped his hands.
 
+![image-5](image-5.png)
+
 **Summary/Lesson:** When night came, the disciples took Saul to an opening in the wall. Houses were sometimes built against a city wall, with windows looking outside it. The guards were watching the gates below, but Saul would not use a gate. His new friends placed him in a large basket and carefully lowered him through a window and down the outside of the wall.
 
 Saul hangs against the high wall while enemies watch for him nearby. He has to be quiet too! If he slips and cries out, the guards will hear him and know what's going on. The disciples above must be strong, and Saul must trust them enough to get in the basket. If they slip, he would fall about 30 feet to the ground and probably die. Lower and lower he goes until at last the basket reaches the ground. Saul steps out into the darkness and escapes Damascus alive. The guards had watched every gate, but God provided another way out.
 
 ### 6. God Preserved Saul To Keep Serving
 
-**Main Passage:** Acts 9:26-31
+![image-6](image-6.png)
 
 **Summary/Lesson:** Saul would go on to do some incredible things for God! He would preach to a great many people and see a lot of them get saved. God did some miracles through Saul as he continued to live for and serve God.  He would help pastors and churches, he would write letters, he would heal people. All of that because He decided to turn away from his old life and turn to God.
 
