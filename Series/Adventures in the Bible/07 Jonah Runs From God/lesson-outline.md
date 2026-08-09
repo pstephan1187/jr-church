@@ -15,54 +15,19 @@
 
 ## Lesson Outline
 
-### 1. Israel's Prophet Was Sent To Israel's Enemy
+1. ### Introduction and Context
 
-**Jonah 1:1-2 (KJV)**
+![image-2](image-2.png)
 
-> 1 Now the word of the LORD came unto Jonah the son of Amittai, saying,
->
-> 2 Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.
+Several hundred years before Jesus was born Israel had trouble with another really big nation. This was the nation of Assyria. many nations were scared of Assyria, because Assyria was a dreadfully violent and mean country. They would take people from their homes. They would hurt them. They would destroy their houses and separate families. Their armies and rulers used terror and fear to get people to do what they wanted.
 
-**Summary/Lesson:**
+The capital city of Assyria was Nineveh. Nineveh was a very large city. The Bible says it had over 120,000 people, and it was so big that it would take three days to walk across. but Nineveh was also a very sad city. It was known for its wickedness, violence, lies, and robbery. Another prophet named Nahum would describe Nineveh as a bloody city.
 
-- **Who were the Assyrians?**
-  - Assyria was a powerful ancient kingdom east and northeast of Israel.
-  - The ancient Assyrians were feared enemies of Israel.
-  - Their armies attacked cities, took treasure, and carried conquered people away from their homes. They hurt people, destroyed homes, and took families away. Other nations were afraid of them.
-  - Their rulers used terror and harsh punishment to frighten nations into surrender.
-- **Nineveh was a great Assyrian city.**
-  - Jonah 3:3 describes it as "an exceeding great city of three days' journey." It was a large place with many people.
-  - It would later become the capitol city of the Assyrian Empire.
-  - The city was known for wickedness, violence, lies, and robbery. Nahum later called it a "bloody city" (Nahum 3:1).
-- **Why did Israel fear and hate Assyria?**
-  - The Israelites knew that the Assyrians conquered nations, destroyed homes, and carried people away.
-  - Jonah hated the thought of mercy for Nineveh.
-  - Jonah knew God to be gracious, merciful, patient, and kind and he wanted his enemies punished. He did not want them to receive God's mercy.
-- **Jonah was a prophet of the LORD from Israel.**
-  - A prophet was a person whom God chose to receive and speak His message.
-  - Prophets did not make up their own message. Their duty was to say what God told them to say.
-  - A prophet sometimes warned people about sin and coming judgment. He also called them to turn back to God.
-  - Some prophets spoke about events that would happen later. These were called prophesies
-  - A prophet was God's messenger. God gave him a message, and he gave that message to the people. Like a preacher
-- **Jonah's mission was important and unusual.**
-  - God, being loving and merciful, wanted to give the Ninevites one last chance to turn from their wickedness.
-  - God wanted Jonah to warn the Ninevites, so they would turn to Him and have forgiveness and a home in Heaven
-  - God's warning gave the people of Nineveh an opportunity to believe Him and turn from their evil ways.
-  - Nineveh had more than 120,000 people. He saw each person and cared about the whole city.
-  - Jonah carried a message of judgment. The warning also showed God's mercy because He gave the people time to repent.
-
-**Practical Application for Children:**
-
-- God tells us to care about people we may not like.
-- We must not decide that someone is "too bad" for God to save.
-- We should pray for people who are unkind, unfair, or difficult.
-
-**Illustration:**
-
-- Show a map with Israel and Nineveh.
-- Ask: "How would you feel if God told you to take good news to someone who had been mean to you?"
+Israel hated Assyria and Nineveh. They hated them because of how they treated them, because of how violent they were and how mean they were and the way they destroyed their homes and their families The people of Israel wanted Assyria and wanted Nineveh to be destroyed.
 
 ### 2. God Gave Jonah A Clear Command
+
+![image-1](image-1.png)
 
 **Main Passage:**
 
@@ -74,35 +39,24 @@
 
 **Summary/Lesson:**
 
-- God told Jonah exactly where to go: Nineveh.
-- God told Jonah exactly what to do: cry against its wickedness.
-- God's command was not confusing.
-- Jonah knew God's Word, but he did not want to obey it.
+In Israel, God had certain people called prophets who would deliver his messages to his people. These messages would be very important because they would come from God and they would be instructions for the people to follow. A lot of times they would be warnings for people to stay away from doing wrong things, or they would be instructions to tell them to do certain things. Often, they would be messages of judgment that if they did not turn from their wickedness and obey God, that they would be punished. 
 
-**Supporting Scriptures:**
+In Israel, there was a prophet named Jonah. God had a very specific message for Jonah to deliver, but it wasn't to the people of Israel, it was to the people of Nineveh. God wanted Nineveh to repent of their wickedness and to turn away from their evil deeds and to turn to God. And if they did that, he would forgive them. Otherwise, the city would be destroyed. 
 
-- **Ecclesiastes 12:13 (KJV)** - Our duty is to fear God and keep His commandments.
+ Jonah did not want to tell this message because Jonah, just like the rest of the Israelites, hated Nineveh and the Assyrians because of how they treated them.  Jonah knew very clearly what God wanted him to do. He wasn't confused. He didn't hear God incorrectly. He knew exactly what he was supposed to do. 
 
-  > Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
+But Jonah decided not to obey. Jonah did not want Nineveh to repent of their sin. Jonah wanted Nineveh to be destroyed. He wanted God to judge Nineveh, not to forgive them. So Jonah decided to disobey God and not do what he was told. 
 
-- **James 4:17 (KJV)** - Knowing to do good and refusing to do it is sin.
+**Ecclesiastes 12:13 (KJV)** 
 
-  > Therefore to him that knoweth to do good, and doeth it not, to him it is sin.
-
-- **John 14:15 (KJV)** - Loving Jesus leads us to keep His commandments.
-
-  > If ye love me, keep my commandments.
+> Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
 
 **Practical Application for Children:**
 
-- Obey right away when God shows you what is right in His Word.
-- Do not pretend you do not understand when you simply do not want to obey.
-- Obey parents, tell the truth, and be kind even when you do not feel like it.
-
-**Illustration:**
-
-- Give one child a clear, simple instruction.
-- Ask the class whether walking the other direction would be confusion or disobedience.
+- God tells us to care about people we may not like.
+- We must not decide that someone is "too bad" for God to save.
+- We should pray for people who are unkind, unfair, or difficult. We should witness to them, invite them to church, and tell them about Jesus.
+- We should obey God even though it is something we don't want to do
 
 ### 3. Jonah Tried To Run Away From God
 
@@ -114,42 +68,29 @@
 
 **Summary/Lesson:**
 
-- Jonah went down to Joppa instead of toward Nineveh.
-- He found a ship going to Tarshish, far in the opposite direction.
-- Jonah paid the fare and went down into the ship.
-- Jonah was not escaping God; he was choosing rebellion.
-- Every step away from God's will took Jonah farther into trouble.
+![image-3](image-3.png)
 
-**Supporting Scriptures:**
+ So here we see Jonah, a prophet of God, doing something very silly. As a prophet, you would think he would know that you can't run from God, that you can't hide from God, and that God isn't going to change His mind just because you decide to disobey Him. You and I know better, and He's certainly did too. 
 
-- **Psalm 139:7-10 (KJV)** - No one can go where God is not present.
+ Jonah was simply being naughty and disobeying God. God gave him a clear command, and he was rebelling against what God wanted him to do. Instead of going towards Nineveh, he decided to go the other way. He got on a boat, going to a city far, far away, paid for it. and headed in the opposite direction. 
 
-  > 7 Whither shall I go from thy spirit? or whither shall I flee from thy presence?
-  >
-  > 8 If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.
-  >
-  > 9 If I take the wings of the morning, and dwell in the uttermost parts of the sea;
-  >
-  > 10 Even there shall thy hand lead me, and thy right hand shall hold me.
+ He knew that he was doing wrong. He knew that he was disobeying God. God wanted him to go the other way, but Jonas said no. I'm sure every person he passed on his way to that boat reminded him of the people of Nineveh who would die and go to hell if he did not obey God. 
 
-- **Proverbs 14:12 (KJV)** - Our own way may look right but leads to death.
+**Psalm 139:7-10 (KJV)** - No one can go where God is not present.
 
-  > There is a way which seemeth right unto a man, but the end thereof are the ways of death.
-
-- **Numbers 32:23 (KJV)** - Sin will be found out.
-
-  > But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out.
+> 7 Whither shall I go from thy spirit? or whither shall I flee from thy presence?
+>
+> 8 If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.
+>
+> 9 If I take the wings of the morning, and dwell in the uttermost parts of the sea;
+>
+> 10 Even there shall thy hand lead me, and thy right hand shall hold me.
 
 **Practical Application for Children:**
 
 - You cannot hide sin from God.
-- Running from a problem, lying, blaming someone else, or sneaking around does not fix disobedience.
+- Running from a problem, lying, blaming someone else, or sneaking around does not fix disobedience, it only makes it worse
 - The best time to turn around and obey is now.
-
-**Illustration:**
-
-- Mark "Nineveh" on one side of the room and "Tarshish" on the other.
-- Have a child walk the wrong direction after receiving a clear command.
 
 ### 4. Jonah's Sin Brought A Terrible Storm
 
@@ -173,11 +114,15 @@
 
 **Summary/Lesson:**
 
-- The LORD sent a great wind and a mighty storm.
-- The sailors were terrified and worked desperately to save the ship.
-- Jonah was asleep below while everyone else was in danger.
-- The sailors learned that Jonah was running from the LORD.
-- Jonah's rebellion did not hurt only Jonah; it brought danger to other people too.
+![image-4](image-4.png)
+
+ Boys and girls sometimes we might think that what God wants us to do is scary or sometimes it's something we don't want to do but no matter how scary it is or how much we don't want to do it. Disobeying God is always worse. Jonah was about to learn that the hard way. 
+
+ Jonah got on that ship and started to sail away. And at first, I'm sure he thought everything was just fine. But it wasn't. Soon it started to rain, and the wind picked up. And before he knew it, there was a massive storm. The storm was so bad it began to tear the ship apart. The crew began throwing things overboard to keep it floating when they found him sleeping below deck. 
+
+ And asked him to pray that they would survive the storm. Then they decided to do something called cast lots to figure out whose fault it was that they were in this horrible storm.  Sure enough, they figured out it was Jonah. Jonah confessed to them that he was running from God. And this terrified them even more. 
+
+ You see boys and girls, if he had just obeyed God from the beginning, sure he would have had to do something he didn't want to do, but he would have escaped this horrible storm, would not be fearing his own death, and would not have endangered the lives of complete strangers. Something we must realize is that whenever we do wrong, it doesn't just affect us, but it always affects someone else. 
 
 **Supporting Scriptures:**
 
