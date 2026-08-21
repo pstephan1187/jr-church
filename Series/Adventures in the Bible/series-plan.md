@@ -10,7 +10,7 @@ Each lesson should keep the story vivid and concrete for the kids, but the appli
 
 ## Planned Lessons
 
-Lessons start Sunday, June 14, 2026 and continue through Sunday, August 30, 2026. The first Sunday of each month is skipped, so there is no lesson planned for July 5 or August 2.
+Lessons start Sunday, June 14, 2026 and continue through Sunday, August 23, 2026. The first Sunday of each month is skipped, so there is no lesson planned for July 5 or August 2.
 
 | Date | Lesson | Story | Passage References | Brief Synopsis |
 | --- | --- | --- | --- | --- |
@@ -22,8 +22,7 @@ Lessons start Sunday, June 14, 2026 and continue through Sunday, August 30, 2026
 | July 26, 2026 | 6 | Paul Escapes Damascus | Acts 9:23-31; 2 Corinthians 11:32-33 | After Saul begins preaching Christ, his enemies plot to kill him. The believers lower him down the wall in a basket, showing that serving God can bring danger, but God can protect His servants in unexpected ways. |
 | August 9, 2026 | 7 | Jonah Runs From God | Jonah 1-4 | Jonah tries to run from God's command and ends up in a storm and in the belly of a great fish. God shows mercy to Jonah and to Nineveh, teaching that we should obey God's call and care about the people God wants to save. |
 | August 16, 2026 | 8 | Elisha and the Invisible Army | 2 Kings 6:8-23 | The Syrian army surrounds Elisha, but God opens the servant's eyes to see the mountain full of horses and chariots of fire. The story teaches that God's protection is greater than the danger we can see. |
-| August 23, 2026 | 9 | Caleb Takes Hebron | Numbers 13:26-33; Numbers 14:6-9; Joshua 14:6-15; Joshua 15:13-14 | Caleb believes God's promise when most of Israel is afraid, then decades later asks for the mountain where giants live. His courage and faithfulness make a strong lesson: trusting God is not just for one moment, but for a whole life. |
-| August 30, 2026 | 10 | Nimrod and Babel | Genesis 10:8-10; Genesis 11:1-9 | Nimrod's kingdom and the tower of Babel show people gathering in pride and rebellion instead of obeying God's command to fill the earth. God confounds their language and scatters them, warning against prideful ambition apart from God. |
+| August 23, 2026 | 9 | Nimrod and Babel | Genesis 10:8-10; Genesis 11:1-9 | Nimrod's kingdom and the tower of Babel show people gathering in pride and rebellion instead of obeying God's command to fill the earth. God confounds their language and scatters them, warning against prideful ambition apart from God. |
 
 ## Reserve / Future Lesson
 

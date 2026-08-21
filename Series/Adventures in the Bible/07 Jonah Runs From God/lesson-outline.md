@@ -270,3 +270,26 @@ Just like the Ninevites, we are also sinners, and we are doomed to be judged if 
 - Ask God for mercy when you have disobeyed.
 - Care about people God wants to save, even people you do not like.
 - Trust Jesus alone for salvation.
+
+## Review Questions
+
+1. Easy: What enemy nation did Israel fear and hate?
+2. Easy: What large Assyrian city was known for wickedness and violence?
+3. Easy: What was Jonah's job in Israel?
+4. Easy: What did God command Jonah to do?
+5. Easy: What did Jonah do instead of going to Nineveh?
+6. Easy: What happened to the sea after Jonah sailed away?
+7. Easy: What happened when the sailors threw Jonah into the sea?
+8. Easy: What did God prepare to swallow Jonah?
+9. Medium: Why did Jonah refuse to take God's warning to Nineveh?
+10. Medium: What did the sailors throw overboard while they tried to save the ship?
+11. Medium: How did the sailors discover that Jonah was the cause of the storm?
+12. Medium: How long was Jonah inside the great fish?
+13. Medium: What did Jonah do while he was inside the fish?
+14. Medium: What warning did Jonah preach when he finally entered Nineveh?
+15. Medium: How did the people of Nineveh respond to God's warning?
+16. Medium: What did God do when He saw that the Ninevites had turned from their evil way?
+17. Hard: How did Jonah's disobedience hurt people who had no part in his decision?
+18. Hard: Why should we obey a clear command from God even when we feel afraid or do not want to obey?
+19. Hard: What does God's mercy toward Nineveh teach us about people we dislike or consider too wicked to be saved?
+20. Hard: What judgment do all sinners deserve, and how can a person receive eternal life through Jesus Christ?
