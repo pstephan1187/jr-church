@@ -26,6 +26,8 @@
 >
 > And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.
 
+![image-1](image-1.png)
+
 **Summary/Lesson:** After the flood, Noah, his wife, his sons, and their wives were the families who remained. God gave them a clear command. He blessed them and told them to have lots of kids and fill the earth back up. God wanted mankind to live throughout the whole world.
 
 Genesis 10 records the families and nations that came from Noah's sons. One of those descendants was a man named Nimrod. The Bible calls him a great hunter. He was a mighty leader, had a great kingdom, and started many cities.
@@ -36,6 +38,8 @@ The story begins with a command from God. The people had a place to live and wor
 
 > **Genesis 11:1-4**
 > And the whole earth was of one language, and of one speech. And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there. And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter. And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.
+
+![image-2](image-2.png)
 
 **Summary/Lesson:** The people journeyed until they reached a plain in a land called Shinar. A plain is a wide, flat place. It gave them room to settle and build their houses and plant crops. Everyone spoke the same language, so each person could understand the plans and work together very easily.
 
@@ -53,11 +57,11 @@ Disobedience can begin with a decision that sounds reasonable. A group may agree
 
 ### 3. Nimrod And The People Wanted to be Famous
 
-**Main Passage:** Genesis 10:8-10; Genesis 11:3-4
-
 > **Genesis 11:3-4**
 >
 > And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter. And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name; lest we be scattered abroad upon the face of the whole earth.
+
+![image-3](image-3.png)
 
 **Summary/Lesson:**  The people said, “Let us make us a name.” They wanted their city and tower to display their greatness. They wanted to stay together and protect their own plan. And they wanted to be known by their great works. Their words reveal their pride. Pride lifts self up and pushes God out of the center.
 
@@ -78,6 +82,8 @@ God gives people abilities, ideas, and strength. Pride takes the credit for thos
 >
 > And the LORD came down to see the city and the tower, which the children of men builded. And the LORD said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.
 
+![image-4](image-4.png)
+
 **Summary/Lesson:** The builders saw their city and tower growing. They thought they were mighty and could stop God's command. But the LORD saw the work too. He saw the bricks, the plans, the people, and the pride in their hearts. The city could not hide their rebellion from Him.
 
 The words “the LORD came down to see” show that God cared about what they were doing. He didn't think to Himself "meh, whatever". He examined what they were doing. Much the same way your parents check on you when they give you something to do. They expect you to obey. God expected them to obey too.
@@ -97,6 +103,8 @@ This moment should create suspense in the lesson. The people were making plans o
 >
 > Go to, let us go down, and there confound their language, that they may not understand one another's speech. So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city. Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.
 
+![image-5](image-5.png)
+
 **Summary/Lesson:** God judged the people's disobedience and pride. He confounded their language so they could no longer understand what each other was saying. They could no longer work together. Everyone was so very confused! The work stopped. It has to. A boss couldn't tell his workers what to do, a builder couldn't ask his boss where things were supposed to go, and someone delivering supplies couldn't get directions to where to take his stuff. No one could figure out how to talk to anyone else. Families and groups moved away from each other and spread throughout the earth.
 
 Friends got separated, people couldn't talk to each other. Everyone was completely alone now. Now instead of being able to spread out in a happy way being able to work together, everyone was separated into small families, forced to be alone.
@@ -105,11 +113,11 @@ It would have been so much easier if they had just obeyed God in the first place
 
 ### 6. The Tower Could Not Bring Them To God
 
-**Main Passage:** Genesis 11:4, 8-9; Ephesians 2:8-9
-
 > **Genesis 11:4**
 >
 > And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name; lest we be scattered abroad upon the face of the whole earth.
+
+![image-6](image-6.png)
 
 **Summary/Lesson:** The people at Babel tried to build a name for themselves. Their work stopped, and their group scattered. Their tower could not bring them to God. The city could not keep them from God's judgement. We cannot outrun God, we cannot hide from God, and we cannot keep ourselves from God. We should just give in to Him and obey!
 
@@ -146,30 +154,25 @@ Invite children to trust Jesus alone for salvation. Explain that prayer can expr
 - Remember that rebellion brings real consequences.
 - Humble yourself before God and trust Jesus alone to save you.
 
-## Optional Games
-
-- **Build and Scatter:** Let teams build a small block tower. Call “Babel” after a short time, and have each child move to a marked place in the room. Talk about the command God gave and the judgment that scattered the people.
-- **Pride or Humility:** Read short child-level situations. Children point up when a person gives God the credit and place a hand over the heart when a person is choosing pride. Use examples from school, home, and church.
-
 ## Review Questions
 
 1. Easy: Who received God's command after the flood?
 2. Easy: What did God tell mankind to do throughout the earth?
-3. Easy: What land did the people find in Genesis 11?
+3. Easy: What was the name of the land where the people settled?
 4. Easy: How many languages did the people have at the beginning of the story?
 5. Easy: What materials did the people make for building?
-6. Easy: What city did the people begin to build?
+6. Easy: What two things did the people decide to build?
 7. Easy: What did the people want to make for themselves?
-8. Easy: What did God do to their language?
+8. Easy: What happened to the people's language?
 9. Medium: Why did the people settle together in Shinar?
 10. Medium: What command from God did their plan resist?
-11. Medium: Who was Nimrod, and where did his kingdom begin?
-12. Medium: How did the people's words show pride?
+11. Medium: What was Nimrod known for?
+12. Medium: How did the people's desire to be famous show pride?
 13. Medium: What did the LORD see when He came down to the city and tower?
-14. Medium: What happened to the building project after God confounded their language?
-15. Medium: Where did the LORD scatter the people?
-16. Medium: Why was the city called Babel?
-17. Hard: How did the people pay a price for their disobedience and pride?
-18. Hard: Why does a crowd's agreement fail to make rebellion right?
-19. Hard: Why can good works and human achievements never save a sinner?
-20. Hard: What did Jesus do so that a sinner can be saved, and what should the sinner trust?
+14. Medium: What happened when the people could no longer understand one another?
+15. Medium: Why did God confound the people's language?
+16. Medium: What happened to the families and groups after the building stopped?
+17. Hard: How can a good activity become sin when it goes against a clear command?
+18. Hard: What does rebellion mean, and how did the people at Babel rebel against God?
+19. Hard: Why can a tower, good works, church attendance, or Bible knowledge never save a sinner?
+20. Hard: What did Jesus do so that sinners can be saved, and whom should we trust?
