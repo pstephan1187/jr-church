@@ -42,18 +42,20 @@ People have given up their health, their money, even their lives for great purpo
 >
 > Finally, my brethren, be strong in the Lord, and in the power of his might. Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
-[ [Image]: a you boy practicing with a teacher in an archery range ]
+![image-1](image-1.png)
 
-**Summary/Lesson:** Paul wrote these words to Christians. He told them to be strong in the Lord. The strength for the Christian life comes from God. Without His strength, we would fail! A weak person does not do well in an adventure. Adventures require string, preparation, and wisdom.
+**Summary/Lesson:** Paul wrote these words to Christians. He told them to be strong in the Lord. The strength for the Christian life comes from God. Without His strength, we would fail! A weak person does not do well in an adventure. Adventures require strength, preparation, and wisdom. Just like anything else, if you want to do well, we must practice!
 
 Paul also warned them about the devil's “wiles.” A wile is a trick or a sneaky plan. Satan is very sneaky. He is very good and making people thing that sin is ok or even good! Satan is God's enemy. He hates what God loves. He uses lies, temptation, fear, and false teaching to pull people away from God.
 
-Our main enemies are spiritual. The person who bothers you at school is a person whom God loves. Your brother or sister is not the true enemy. People may do wrong things, and their actions may need to be stopped. But our true enemy is wickeness, pride, rejection of God, temptation to do wrong. That is what we are fighting against:
+Our main enemies are spiritual. The person who bothers you at school is a person whom God loves. Your brother or sister is not the true enemy. People may do wrong things, and their actions may need to be stopped. But our true enemy is wickeness, pride, rejection of God, temptation to do wrong, or being too scared or weak to do right. That is what we are fighting against:
 
 > **Ephesians 6:12**
 > For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
-As we go through our life, we are going to face A lot of these enemies, sometimes they're not going to look like evil and sin and wickedness. Sometimes they're just going to look like fun. Sometimes they're gonna look good. Sometimes they're gonna be things. That are hard to know if they're right or wrong. We need to remember that the devil is very sneaky and he wants to trick us into doing wrong and he lays traps for us everywhere. 
+These enemies are not warriors that we can fight with a sword or a gun, no, these are enemies that we have to fight with prayer, wisdom, and humility
+
+As we go through our life, we are going to face A lot of these enemies, sometimes they're not going to look like evil and sin and wickedness. Sometimes they're just going to look like fun. Sometimes they're gonna look good. Sometimes they're gonna be things that are hard to know if they're right or wrong. We need to remember that the devil is very sneaky and he wants to trick us into doing wrong and he lays traps for us everywhere. 
 
 So how do you win this battle? How do you come home from this adventure victorious? Just like any adventurer or warrior, you prepare. 
 
@@ -63,7 +65,7 @@ So how do you win this battle? How do you come home from this adventure victorio
 >
 > Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: Whom resist stedfast in the faith.
 
-[ [Image]: a child walking through a path in the woods, traps everywhere, and a personified lion hiding behind a tree, ready to pounce ]
+![image-2](image-2.png)
 
 **Summary/Lesson:** Satan has many ways to attack Christians. Sometimes he doesn't attack at all, sometimes he just lays traps and hopes we fall for them.
 
@@ -76,6 +78,7 @@ Here are some attacks a child may face:
 - **Doubt:** “God does not care about you. He will not help you.”
 - **Fear:** “Stay quiet about Jesus. People may laugh at you.”
 - **Pride:** “You know better than your parents, pastor, or teacher.”  or "No one understands or cares what I'm going through!"
+- **Allowing Sin**: "This isn't a big deal. Everyone else is doing it any way."
 - **Discouragement:** “You failed again. You might as well stop trying to do right.”
 - **Bitterness:** “That person hurt you. They don't deserve to be forgiven.”
 - **Shame after sin:** “You have done something very bad. God will not forgive you, you might as well keep sinning.”
@@ -88,7 +91,7 @@ Satan will use simple things to get to you just a little bit. But the little thi
 >
 > Thy word is a lamp unto my feet, and a light unto my path.
 
-[ [Image]: a child walking down a dangerous dark path with a map and a flashlight ]
+![image-3](image-3.png)
 
 **Summary/Lesson:** An explorer needs a trustworthy guide. Adventures study everything they can about where they are going. They read maps, they learn the language, they study the culture, they find out about the dangers in the area, they hire a local to lead them.
 
@@ -112,9 +115,9 @@ The Bible helps us see the next right step. We must read it, listen when it is t
 >
 > But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them; And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
 
-[ [Image]: a boy practicing martials arts in a dojo with his sensei ]
+![image-4](image-4.png)
 
-**Summary/Lesson:** Adventurers spend years practicing, learning, and studying. Warriors spend years learning how to fight, use their weapons, and defend against the enemy. Christians should too! Timothy learned the Scriptures while he was a child. His mother and his grandmother taught him the Bible. Paul also trained Timothy and showed him how to serve God. Paul, John the Baptist, even Jesus, all spent long amounts of time studying, learning, and preparing to do what God wanted them to do.
+**Summary/Lesson:** Adventurers spend years practicing, learning, and studying. Warriors spend years learning how to fight, use their weapons, and defend against the enemy. Christians should too! Timothy learned the Scriptures while he was a child. His mother and his grandmother taught him the Bible. Paul also trained Timothy and showed him how to serve God. Paul, John the Baptist, even Jesus, all spent long amounts of time studying, learning, and preparing to do what God wanted them to do before going out and doing great ministries.
 
 God places faithful people in our lives to teach, warn, encourage, and correct us. Parents,  Pastors and Sunday school teachers, older Christians are all their to help you learn and understand more of the Bible and God's ways.
 
@@ -132,7 +135,7 @@ Every warrior and adventurer wears some kind of protection. Whether it's against
 >
 > Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.
 
-[ [Image]: a boy putting on battle armor ]
+![image-5](image-5.png)
 
 A soldier needs every piece of his armor for battle. God tells Christians to put on the whole armor of God. Each piece has a specific purpose, a particular way it protects the Christian from harm.
 
@@ -190,27 +193,92 @@ He has given you a guide in His Word. He has placed teachers in your life. He gi
 
 Choose today to use what God provides. Follow His Word one step at a time. Stand in His strength. Through Jesus Christ, you can live faithfully on the adventure God gives you.
 
-## Review Questions
+## Review Questions And Answers
 
-1. Easy: Who gives a Christian strength for the spiritual battle?
-2. Easy: What does the word “wiles” mean?
-3. Easy: Who is the Christian's spiritual enemy?
-4. Easy: What is the lamp for our feet and light for our path?
-5. Easy: Name one person whom God may use to teach and train a child.
-6. Easy: How many pieces of God's armor should a Christian put on?
-7. Easy: Which piece of armor helps us answer lies with what is true?
-8. Easy: Which piece of armor is called the Word of God?
-9. Medium: Name two lies or temptations that a child may face.
-10. Medium: What should you ask when you recognize a tempting lie?
-11. Medium: How can church, Christian school, and home train a child?
-12. Medium: Why can correction from a faithful adult help us?
-13. Medium: What does the breastplate of righteousness teach us to do?
-14. Medium: What does the shield of faith protect us from?
-15. Medium: Why should a child tell a trusted adult about a dangerous secret?
-16. Medium: What are two ways believers can help each other stand?
-17. Hard: Why should we avoid treating another person as the true enemy?
-18. Hard: What does it mean to submit to God and resist the devil?
-19. Hard: What should a Christian do after giving in to temptation?
-20. Hard: Why can good behavior and Bible knowledge never save a sinner?
-21. Hard: What did Jesus do to give us salvation and victory?
-22. Personal: Which part of God's provision do you need to use more this week?
+1. What is the greatest purpose of the Christian life?
+
+   **Answer:** To serve God.
+
+2. Who gives Christians strength for the spiritual battle?
+
+   **Answer:** The Lord gives Christians strength through His power.
+
+3. What does the word “wiles” mean?
+
+   **Answer:** Tricks or sneaky plans.
+
+4. Who is the Christian's enemy?
+
+   **Answer:** Satan is our enemy, and we fight against spiritual wickedness.
+
+5. Why can Satan's traps be hard to recognize?
+
+   **Answer:** He can make sin look fun, good, or harmless.
+
+6. How should a Christian prepare for the spiritual battle?
+
+   **Answer:** A Christian should learn God's Word, receive training, watch for danger, and put on the whole armor of God.
+
+7. What animal does 1 Peter 5:8 use to describe the devil?
+
+   **Answer:** A roaring lion that seeks someone to devour.
+
+8. Name one trap that Satan may use against a child.
+
+   **Answer:** Answers can include hiding sin, pressure from friends, distraction, victimhood, doubt, fear, pride, discouragement, bitterness, or shame after sin.
+
+9. What can happen when a child keeps giving in to little sins?
+
+   **Answer:** The sins can add up and pull the child farther away from church, obedience, and a right attitude.
+
+10. What guide has God given us for the Christian adventure?
+
+    **Answer:** The Bible, which is God's Word.
+
+11. According to Psalm 119:105, what is God's Word like?
+
+    **Answer:** It is a lamp unto our feet and a light unto our path.
+
+12. What are two questions a child can ask while reading the Bible?
+
+    **Answer:** “What does this teach me?” and “What should I do?”
+
+13. What does the Bible teach us about right and wrong?
+
+    **Answer:** It shows us what is right, warns us about danger, and guides us toward the next right step.
+
+14. Who taught Timothy the Scriptures while he was a child?
+
+    **Answer:** His mother and grandmother taught him the Scriptures.
+
+15. Who trained Timothy and showed him how to serve God?
+
+    **Answer:** Paul.
+
+16. Name one person God may use to train a child.
+
+    **Answer:** Answers can include a parent, pastor, Sunday school teacher, teacher, or older Christian.
+
+17. How can correction help us?
+
+    **Answer:** It can show us what we are doing wrong and protect us from greater harm.
+
+18. Why does a Christian need the whole armor of God?
+
+    **Answer:** Each piece has a special purpose and protects the Christian in a certain way.
+
+19. Name the pieces of the armor of God in Ephesians 6.
+
+    **Answer:** The belt of truth, breastplate of righteousness, shoes of the gospel of peace, shield of faith, helmet of salvation, and sword of the Spirit.
+
+20. What is the sword of the Spirit?
+
+    **Answer:** The Word of God.
+
+21. Who can put on the armor of God?
+
+    **Answer:** People who belong to God through faith in Jesus Christ.
+
+28. What has God provided to help us succeed in our Christian adventure?
+
+    **Answer:** God has given us His Word, faithful teachers, spiritual training, His armor, and His strength.
