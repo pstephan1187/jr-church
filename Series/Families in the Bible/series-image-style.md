@@ -11,7 +11,7 @@
 - **Palette:** warm golden orange, cream, sky blue, olive green, terracotta, purple, and deep navy
 - **Lettering:** large beveled golden-orange main words; smaller dark lettering on a cream parchment ribbon; individually colored dimensional block letters for BIBLE and CHURCH. All lettering is rendered by imagegen.
 - **Motifs:** welcoming stone homes, olive branches, an open Bible, clay jars, flowers, and a sunlit courtyard
-- **Cover composition:** the exact series logo is centered over a courtyard scene, with a family at the left and a grandmother with a girl at the right. These are general family illustrations rather than named Bible characters.
+- **Cover composition:** the enlarged graphical title lettering is centered high in the sky over a courtyard scene, with a family at the left and a grandmother with a girl at the right. These are general family illustrations rather than named Bible characters.
 - **Church cover composition:** BETHEL BAPTIST above a ribbon reading Jr, with CHURCH below, set in the same courtyard world
 - **Lighting and mood:** warm sunlight, cheerful family interactions, and a peaceful welcoming atmosphere
 - **Presentation background pattern:** broad pale cream and light blue center for dark slide text; homes and foliage stay near the edges. No embedded text or logo.
@@ -20,7 +20,7 @@
 
 ## Generation Record
 
-Created September 12, 2026 with the built-in imagegen tool. Each output was visually inspected. The logo's transparent alpha channel and all image dimensions were checked. The series cover uses the generated logo file as a proportional overlay; no lettering was drawn by a script.
+Created September 12, 2026 with the built-in imagegen tool. Each output was visually inspected. The logo's transparent alpha channel and all image dimensions were checked. The series cover was revised with built-in imagegen to use only the graphical title lettering. The full logo remains a separate asset. No lettering was drawn by a script.
 
 ### Prompt Set
 
@@ -30,3 +30,11 @@ Created September 12, 2026 with the built-in imagegen tool. Each output was visu
 - **Church cover:** Use the Adventures church cover as the wording and layout reference, with the family logo and courtyard background as style references. Render BETHEL BAPTIST in golden-orange dimensional letters above Jr on a cream ribbon and CHURCH in colorful block letters. Keep navy depth and white outlines, safe margins, and the peaceful home setting.
 
 The prompts specified PNG output, readable exact wording, and no extra text. Source generations remain in the imagegen output folder; the four final assets are saved beside this file.
+
+### Cover Revision Prompt
+
+Use case: precise-object-edit. Edit the provided 16:9 series cover. Replace the central full emblem with ONLY the graphical title lettering "FAMILIES" / "in the" / "BIBLE". Remove the emblem’s house above the lettering, its surrounding olive branches, and its open book below the lettering. Restore the peaceful courtyard and pale blue warm sky behind those removed emblem parts. Keep the title’s exact current spelling, golden-orange beveled FAMILIES letters, cream parchment ribbon containing in the, individual blue green gold terracotta purple BIBLE letters, navy depth and white sticker outlines. The parchment ribbon belongs to the wordmark and stays. Make this text-only wordmark prominent, balanced and centered, occupying about 60 percent of image width with comfortable sky above and courtyard below. Preserve the background family members on both sides, their faces and clothing, the stone homes, corner foliage and flowers, warm lighting, painted style and 16:9 composition. No extra text, no book or house attached to the wordmark, no new props. Output PNG.
+
+### Title Placement Revision
+
+Built-in imagegen raised the title into the sky and enlarged it slightly. The final adjustment prompt requested a 12 percent enlargement around the top center, preserving the raised position, exact wording, letter colors, ribbon, family members, and courtyard. The final 1672 × 941 PNG was visually inspected.

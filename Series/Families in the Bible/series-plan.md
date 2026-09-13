@@ -10,7 +10,7 @@ Some lessons show how sin harms a household. Others show how God works through f
 
 ## Possible Lessons
 
-These stories are options for the series. Lesson selection and teaching order remain open. No dates or weeks are assigned.
+The first selected lesson is [A Little Girl with a Big Part](01%20Everyone%20Has%20a%20Part/lesson-outline.md), about Moses' family. The remaining stories are options, with selection and teaching order still open. No dates or weeks are assigned.
 
 | Family | Working Lesson Title | Passage References | Brief Synopsis and Lesson Focus |
 | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ These stories are options for the series. Lesson selection and teaching order re
 | Hannah, Elkanah, and Samuel | Praying and Keeping a Promise | 1 Samuel 1; 2:18-21 | Hannah brings her sorrow to God and asks for a son. After Samuel is born, she keeps her promise and brings him to serve the Lord. Teach children to pray about their needs and keep the promises they make to God. |
 | Zechariah, Elizabeth, and John the Baptist | Following God's Purpose | Luke 1:5-25, 57-80 | God promises a son who will prepare people for the Lord. Elizabeth and Zechariah follow God's instruction to name him John, even when relatives expect a family name. Teach children to follow God's direction when people around them expect a different choice. |
 | Esau and Jacob | Forgiving Family Hurts | Genesis 32-33, especially 33:1-11 | Years after Jacob steals the blessing, he fears meeting Esau again. Esau runs to meet him and embraces him. Explore forgiveness after deep family hurt and the steps we can take toward making peace. |
-| Amram, Jochebed, Miriam, and Moses | Everyone Has a Part | Exodus 2:1-10; 6:20; Hebrews 11:23 | Moses' parents protect him by faith. His mother places him in a basket among the reeds, and his sister watches nearby. When Pharaoh's daughter finds him, Miriam offers to find a nurse and brings his mother. Show how family members can work together and how a child's help can make a difference. |
+| Amram, Jochebed, Miriam, and Moses | A Little Girl with a Big Part | Exodus 2:1-10; 6:20; Hebrews 11:23 | Moses' parents protect him by faith. His mother places him in a basket among the reeds, and his sister watches nearby. When Pharaoh's daughter finds him, Miriam offers to find a nurse and brings his mother. Show how family members can work together and how a child's help can make a difference. |
 | The Father and His Two Sons (The Prodigal Son) | Coming Home and Welcoming Back | Luke 15:11-32 | In Jesus' parable, a son wastes his inheritance and returns home ready to confess his sin. His father welcomes him with compassion, while his older brother resents the celebration. Teach repentance and the father's mercy, then consider how we respond when a family member admits wrong and receives forgiveness. |
 
 ## Notes for Developing Lessons
