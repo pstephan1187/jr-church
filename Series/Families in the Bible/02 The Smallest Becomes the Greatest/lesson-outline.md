@@ -39,7 +39,7 @@ David would grow to become a king some day, but before he does that, he has to l
 
 **Summary/Lesson:** David was the youngest person in his family. As the youngest, he got one of the more boring jobs of the family, he was supposed to watch the sheep. He stood around a field watching sheep for hours, walking them here and there from field to stream and back. Sounds like a pretty boring job to me! certainly nothing too exciting.
 
-<image: David watching diligently has his herd of sheep graze over rocky terrain>
+![David diligently watches his sheep graze over rocky terrain.](image-1.png)
 
 But David worked hard to take care of the sheep, even though it wasn't cool like the army. He even made sure the sheep were taken care of when he had to do other things. He didn't just tell his dad he was going to be gone, no, he got someone to take care of his work for him:
 
@@ -66,7 +66,7 @@ A lot of times, you and I might get a job that we don't care about. We don't wor
  **1 Samuel 16:6-10**
 > And it came to pass, when they were come, that he looked on Eliab, and said, Surely the LORD’S anointed is before him. But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart. Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither hath the LORD chosen this. Then Jesse made Shammah to pass by. And he said, Neither hath the LORD chosen this. Again, Jesse made seven of his sons to pass before Samuel. And Samuel said unto Jesse, The LORD hath not chosen these.
 
-<image: Samuel and Jesse standing before Jesse's 7 older sons. David is abscent, Samuel looks slightly confused>
+![Samuel and Jesse stand before Jesse's seven older sons. David is absent, and Samuel looks puzzled.](image-2.png)
 
 **Summary/Lesson:** Eliab, Jesse's oldest son, came before Samuel. He looked like the kind of man people would expect to become king. He must have been tall, strong, and good looking! Samuel thought Eliab must be God's choice. God stopped Samuel and said, “Look not on his countenance, or on the height of his stature.” God did not say appearance has no value. He taught that a person's height, age, strength, clothing, talent, and place in a family do not tell us what is in that person's heart.
 
@@ -86,7 +86,7 @@ Even in the dark and loneliness, God was there with him.
 > **1 Samuel 16:11-13**
 > And Samuel said unto Jesse, Are here all thy children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him: for we will not sit down till he come hither. And he sent, and brought him in. Now he was ruddy, and withal of a beautiful countenance, and goodly to look to. And the LORD said, Arise, anoint him: for this is he. Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward. So Samuel rose up, and went to Ramah.
 
-<image: David kneeling before Samuel, Jesse slightly shocked, other brothers upset>
+![Samuel anoints kneeling David while Jesse looks surprised and the older brothers look upset.](image-3.png)
 
 **Summary/Lesson:** Here we see David being chosen as the next king. And that's a great part of his life and story. Pretty awesome! But that's not what I want to focus on. Look at the middle part of verse 13:
 
@@ -103,7 +103,7 @@ Later, we find Israel in a battle and David's 3 oldest brothers are there. Many 
 
 Jesse gave David some food to take to his brothers and their captain. When he got there, he saw the giant Goliath and heard him in his cussing fit. He started asking why no one was taking this guy out. He was cussing God and his country. Someone needed to take him out and end this battle. Well look at how the soldiers responded:
 
-<Image: David arguing with Eliab at the battlefield, surrounded by angry soldiers, Goliath off in the distance shouting>
+![David speaks earnestly with an angry Eliab among Israel's soldiers while Goliath shouts across the valley.](image-4.png)
 
 > **1 Samuel 17:28-30**
 > And Eliab his eldest brother heard when he spake unto the men; and Eliab’s anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle. And David said, What have I now done? Is there not a cause? And he turned from him toward another, and spake after the same manner: and the people answered him again after the former manner.
