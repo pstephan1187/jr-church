@@ -21,6 +21,7 @@
 ## Lesson Outline
 
 ### 1. A Family Becomes a Nation in Egypt
+![Egyptian taskmasters ordering weary Hebrew workers](image-1.png)
 
 A brief background:
 - Joseph brought his family to Egypt to save them from a fame
@@ -42,6 +43,8 @@ Pharaoh commanded all his people to cast every newborn Hebrew boy into the river
 > **Exodus 2:1-3**
 > And there went a man of the house of Levi, and took to wife a daughter of Levi. And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months. And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river’s brink.
 
+![Jochebed placing baby Moses in a basket among the reeds](image-2.png)
+
 **Summary/Lesson:** Amram and Jochebed had a baby boy. For three months they hid him. Babies need care through the day and night, and a parent cannot simply tell an infant to stay quiet. The Bible says they reached the point when they could hide him no longer. We are not told exactly what changed. Hebrews explains what guided their choice: faith in God was stronger than the king's command:
 
 > **Hebrews 11:23**
@@ -59,6 +62,8 @@ Jochebed made an ark of bulrushes, a small basket made from reeds. She coated it
 > **Exodus 2:4-6**
 > And his sister stood afar off, to wit what would be done to him. And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it. And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews’ children.
 
+![Pharaoh's daughter discovering Moses while Miriam watches](image-3.png)
+
 **Summary/Lesson:** His sister, Miriam, stood far enough away to watch what would happen. She had a part she could do: she could pay attention. Then Pharaoh's daughter came down to wash in the river while her maidens walked beside her. The princess saw the basket in the reeds and sent her maid to get it.
 
 The basket was being opened by someone from the king's own family. What would she do when she saw the baby? Being the very daughter of Pharoah, it was her duty to kill the baby. But God works in the hearts of even the most powerful people. Remember, Miriam was watching afar off. Imagine what was going on in her mind: "Oh no! The princess has him! Surely she will kill him!"
@@ -72,6 +77,8 @@ But when the princess saw Moses, he cried, and she had compassion on him. She kn
 > **Exodus 2:7-9**
 > Then said his sister to Pharaoh’s daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee? And Pharaoh’s daughter said to her, Go. And the maid went and called the child’s mother. And Pharaoh’s daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and nursed it.
 
+![Miriam offering to find a nurse for Moses](image-4.png)
+
 She decided to offer to find a Hebrew woman who could care for and raise the baby. The princess agreed. Who do you think Miriam took the baby to? Her own mother! Not only would Moses live, but Jochabed would be able to keep him, at least for a while. And not only would she get to keep him, but she was going to be paid to do it!
 
 Pharaoh's daughter placed Moses in his mother's care and promised to pay her. Miriam's watchful attention and timely words mattered. God used a little girl from an unprivileged family to change the life of her brother, the life of her mother, and the future of an entire nation. Image the joy on Jochabed's face when Miriam brought the baby home under the protection of royal guards!
@@ -80,6 +87,8 @@ Pharaoh's daughter placed Moses in his mother's care and promised to pay her. Mi
 
 > **Exodus 2:10**
 > And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
+
+![Jochebed teaching young Moses at home](image-5.png)
 
 **Summary/Lesson:** Jochebed cared for Moses until the time came to bring him to Pharaoh's daughter. We don't know how old he was. We don't know how long she had Moses for. Her time was short and she knew she had to teach him wisely to stay true to God when he returned to the palace.
 
@@ -95,6 +104,8 @@ Moses was going to leave a home that worshipped and obeyed God to live with peop
 > **Acts 7:22**
 > And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.
 
+![Young Moses learning from Egyptian scholars](image-6.png)
+
 **Summary/Lesson:** Moses became the son of Pharaoh's daughter. And we see that he learned the wisdom of the Egyptians. His life now included the royal household and an education shaped by Egypt. The nation worshipped false gods, and taught many things against God's Word.
 
 > **Hebrews 11:24-26**
@@ -103,6 +114,8 @@ Moses was going to leave a home that worshipped and obeyed God to live with peop
 As Moses grew up, he remembered what his parents taught him. He could have chosen the riches, pleasures, power, and fame that came with being an Egyption prince, but instead, he chose to identify with God's people even though they were just slaves. The comforts and standing of the royal household could not give him the peace of obeying God. This does not mean every decision Moses made was right. Moses was a sinner too, but his heart was after God, not after the world.
 
 ### 7. God Uses the Baby Who Was Protected
+
+![Moses overlooking the Red Sea crossing](image-7.png)
 
 **Summary/Lesson:** Moses would grow up to save the Hebrews from slavery. They would escape Egypt and God would use Moses to escape their great army, cross a sea, and face many mighty enemies as they travelled to the land that God had promised them. God had great plans for Moses, but they all started with a mother, father, and sister, who stuck together and made brave decisions to obey God instead of giving in to an evil king.
 
@@ -125,3 +138,70 @@ If you want to understand how to trust Jesus, speak with a teacher after the les
 - Choose one way to help your family or someone at church this week.
 - Trust Jesus personally for salvation.
 
+## Review Questions And Answers
+
+### Easy
+
+1. **Why did Jacob's family move to Egypt?**
+   **Answer:** There was a famine, and Joseph could provide food for them in Egypt.
+
+2. **Who was the king of Egypt?**
+   **Answer:** Pharaoh.
+
+3. **What were the names of Moses' parents?**
+   **Answer:** Amram and Jochebed.
+
+4. **How long did Moses' parents hide him?**
+   **Answer:** Three months.
+
+5. **What did Jochebed make to hold baby Moses?**
+   **Answer:** An ark, or basket, made from bulrushes.
+
+6. **What was the name of Moses' sister?**
+   **Answer:** Miriam.
+
+7. **Who saw the basket and sent her maid to get it?**
+   **Answer:** Pharaoh's daughter.
+
+8. **Who cared for Moses after Miriam offered to find a nurse?**
+   **Answer:** His own mother, Jochebed.
+
+### Medium
+
+9. **What cruel command did Pharaoh give about newborn Hebrew boys?**
+   **Answer:** He ordered his people to cast them into the river.
+
+10. **Why did Jochebed coat the basket with slime and pitch?**
+    **Answer:** To keep water out and protect the baby inside.
+
+11. **Where did Jochebed put the basket, and what did Miriam do?**
+    **Answer:** Jochebed put it among the reeds at the river's edge. Miriam watched from a distance to see what would happen.
+
+12. **How did Pharaoh's daughter respond when she opened the basket and saw Moses crying?**
+    **Answer:** She had compassion on him and chose to care for him, even though she knew he was a Hebrew baby.
+
+13. **What did Miriam offer to do for the princess?**
+    **Answer:** Find a Hebrew woman who could nurse the baby.
+
+14. **What did Pharaoh's daughter promise Jochebed for caring for Moses?**
+    **Answer:** She promised to pay her wages.
+
+15. **What choice did Moses make when he grew up?**
+    **Answer:** He chose to stand with God's people and suffer with them instead of enjoying the pleasures of sin in Egypt.
+
+16. **What does Ephesians 4:32 teach us about how to treat one another?**
+    **Answer:** Be kind and tenderhearted, and forgive one another as God has forgiven us for Christ's sake.
+
+### Hard
+
+17. **How did Moses' parents show their faith in God through their actions?**
+    **Answer:** They protected and hid Moses despite the king's command. They trusted God while taking steps to care for their baby.
+
+18. **How does Miriam's part in this story show that God can use children?**
+    **Answer:** She paid attention and spoke up with an offer to help. God used her actions to bring Moses back into his mother's care. Children can also help others and serve God now.
+
+19. **What is one way you can put this lesson into practice this week?**
+    **Answer:** Answers will vary. Examples include helping a younger sibling, telling a trusted adult when someone needs help, or obeying a Bible truth when friends pressure you to do wrong.
+
+20. **Why do we need Jesus to save us, even if we help our family and learn the Bible?**
+    **Answer:** We have all sinned, and our good actions cannot take away sin. Jesus died for our sins and rose again. Each of us must personally trust Him for salvation.
