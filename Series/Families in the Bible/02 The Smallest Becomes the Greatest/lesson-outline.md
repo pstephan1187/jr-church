@@ -141,3 +141,71 @@ Jesus defeated sin and death through His death and resurrection. He alone can sa
 - Obey parents and trusted leaders when their instruction agrees with God's Word.
 - Trust God's power when doing right feels hard or frightening.
 - Trust Jesus personally for salvation, because good works cannot save you.
+
+## Review Questions And Answers
+
+### Easy
+
+1. **What was the name of David's father?**
+   **Answer:** Jesse.
+
+2. **How many sons did Jesse have?**
+   **Answer:** Eight.
+
+3. **Was David the oldest or the youngest son?**
+   **Answer:** The youngest.
+
+4. **What job did David do for his father?**
+   **Answer:** He cared for his father's sheep.
+
+5. **What two dangerous animals did David fight to protect the sheep?**
+   **Answer:** A lion and a bear.
+
+6. **Which prophet did God send to Jesse's family?**
+   **Answer:** Samuel.
+
+7. **Which of Jesse's sons did God choose to become king?**
+   **Answer:** David.
+
+8. **What was the name of the giant who challenged Israel?**
+   **Answer:** Goliath.
+
+### Medium
+
+9. **How did David make sure the sheep were cared for when he went to the army camp?**
+   **Answer:** He left them with a keeper.
+
+10. **Which older brother did Samuel first think would be God's choice for king?**
+    **Answer:** Eliab.
+
+11. **People look at the outside of a person. What does the LORD look at?**
+    **Answer:** The heart.
+
+12. **What did Samuel do to show that God had chosen David?**
+    **Answer:** He anointed David with oil in front of his brothers.
+
+13. **Who came upon David from the day Samuel anointed him?**
+    **Answer:** The Spirit of the LORD.
+
+14. **Why did Jesse send David to the army camp?**
+    **Answer:** To take food to his brothers and their captain.
+
+15. **How did Eliab react when David asked about Goliath?**
+    **Answer:** He became angry and accused David of being proud and coming just to watch the battle.
+
+16. **Why did David believe he could face Goliath?**
+    **Answer:** He trusted the LORD, who had delivered him from the lion and the bear, to deliver him from Goliath.
+
+### Hard
+
+17. **Our memory verse, Colossians 3:23, says to work "heartily, as to the Lord." What does that mean when you have a chore to do?**
+    **Answer:** Give the work your best effort because you are serving the Lord, even when the chore seems small or no one praises you.
+
+18. **What is one way you can serve God now, while you are still a child?**
+    **Answer:** Answers will vary. You could do a chore carefully or help a younger child. God can use your obedience today.
+
+19. **What can you learn from David when someone makes you feel small or unimportant?**
+    **Answer:** God sees you and knows your heart. You can trust Him and keep doing what is right, even when others do not encourage you.
+
+20. **Why do we need Jesus to save us even if we obey our parents and help others?**
+    **Answer:** We have all sinned, and good actions cannot take away sin. Jesus died for our sins and rose again. We must trust Him for salvation.
