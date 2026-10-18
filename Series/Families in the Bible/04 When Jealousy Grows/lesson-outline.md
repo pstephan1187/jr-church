@@ -27,7 +27,7 @@ Explain that wanting to do well is good. But jealousy or envy begins when someon
 
 **Summary/Lesson:** Adam and Eve had disobeyed God and had been sent out of the garden of Eden. Working became hard and less pleasant than it had been in the garden. After leaving the garden Adam and Eve had two sons: Cain and Abel.
 
-<image: a split image. one one side cain is working on his garden, planting a seed. on the other side abel is tending to a hurt sheep>
+![Illustration of Cain planting a seed while Abel tends a sheep with a sore leg](image-1.png)
 
 Cain became a farmer who worked the ground. He enjoyed gardening. He like experimenting with growing plants. What made them grow better? He probably experimented with different soil types, how much sun the plants got, and which plants to grow close to other plants. That's what he enjoyed doing and that's how he helped his family.
 
@@ -40,7 +40,7 @@ These were their jobs, these were the things they enjoyed doing and how they con
 > **Genesis 4:3-5**
 > And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD. And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering: But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.
 
-<image: Both sons putting their offering on a stone altar bowing before it as if toward God>
+![Illustration of Abel and Cain bowing as they bring their offerings on rough stone altars](image-2.png)
 
 **Summary/Lesson:** The Bible doesn't explain why they did, but the time came where Cain and Abel brought an offering to the Lord. Cain brought an offering from the fruit of the ground. Abel brought the firstlings of his flock and their fat.
 
@@ -66,7 +66,7 @@ There are a lot of people out there who are sincerely trying to serve God, but t
 > **Genesis 4:6-7**
 > And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
 
-<image: Cain standing in his garden, abel off in the distance with his sheep. Cain is watching abel, visibly mad>
+![Cain watches Abel tending his sheep in the distance with visible resentment](image-3.png)
 
 **Summary/Lesson:** Abel had done right before God. Cain's own works were evil. Abel's acceptance gave Cain no reason to hate him though. God even asked Cain why he was so mad. He told Cain if he changed his actions then his offering would be accepted too. It wasn't because God didn't like Cain. It was simply because what Cain brought was wrong. He just had to change something.
 
@@ -82,7 +82,7 @@ God said, “If thou doest well, shalt thou not be accepted?” Cain could have 
 
 **Summary/Lesson:** When God spoke to Cain, he said “sin lieth at the door.” God was giving Cain a serious warning. He was telling Cain that he was on the verge of doing something very bad. He needed to get right or something very bad would happen.
 
-<image: a split image, on one side Cain happily making another offering before God, on the other side cain sobbing under a dark sky over barren land> 
+![Teaching illustration of Cain choosing to listen to God, beside Cain grieving the consequences of sin](image-4.png)
 
 There are many times in the Bible where God warns people before they do something very bad. Sometimes they head God's warnings, and sometimes they don't.:
 
@@ -98,7 +98,7 @@ There are many times in the Bible where God warns people before they do somethin
 > **Genesis 4:8-10**
 > And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him. And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother’s keeper? And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.
 
-<image: A gravestone in a field>
+![A symbolic illustration of Abel's loss: a rough unmarked grave stone in a field](image-5.png)
 
 **Summary/Lesson:** Cain was warned by God and given the opportunity to make things right. He could have prepared another offering and had it accepted by God. He could have had a good relationship with his brother, his life could have gone in a good direction, but he chose to let his jealousy and pride rule.
 
@@ -121,7 +121,7 @@ God then asked where Abel was. Cain answered, “I know not: Am I my brother's k
 - God would no longer be with him - No longer would God talk to him. There was no hope of God ever accepting his offering again. He lost the greatest friend he could ever have. He was truly alone.
   👉 Explain how this would be like them never having anyone to go to for help or comfort or being able to pray or go to church
 
-<image: cain walking away from a sobbing adam and eve, kneeling by the gravestone. Cain is dejected>
+![Imagined family scene: Cain leaves dejected while Adam and Eve weep beside Abel's grave](image-6.png)
 
 Cain was devistated. He lost pretty much everything! His family, his God, his joy, any hope of having friends or fulfillment in life. All gone in one instance of anger and uncrolled jealousy.
 
