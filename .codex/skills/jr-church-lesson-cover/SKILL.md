@@ -34,9 +34,10 @@ If the lesson folder cannot be identified, ask for it. If the lesson outline is 
 
 1. Inspect the target lesson folder. Read `lesson-outline.md` when present to extract the lesson title, main passage, main point, and key visual moment.
 2. Inspect the parent series folder. Read `series-image-style.md`, locate `series-logo.png`, and view the series `cover-graphic.png` when present.
-3. View nearby lesson `cover-graphic.png` files to match style while keeping this cover visually distinct.
-4. Generate or composite a 16:9 PNG lesson cover by following the `imagegen` skill.
-5. Save the final image at the lesson folder's `cover-graphic.png` unless the user gave another path.
+3. View nearby lesson `cover-graphic.png` files to match style and identify faces that should not be reused for different people.
+4. Define each person's appearance using **Character Identity and Historical Fit** in the shared standards. Give each person distinct features appropriate to their background and period. Preserve any approved character identity and complexion when editing.
+5. Generate or composite a 16:9 PNG lesson cover by following the `imagegen` skill. State which references supply style and which supply a character's identity.
+6. Save the final image at the lesson folder's `cover-graphic.png` unless the user gave another path.
 
 ## Lesson Cover Requirements
 
@@ -58,6 +59,8 @@ Create a 16:9 Junior Church lesson cover image for "[LESSON TITLE]" in the serie
 Bible focus: [passage and main point].
 Use this established series art direction: [style lock summary].
 Scene: [one lesson-specific moment, symbol, or setting].
+Character designs: [each person's age, distinct face shape, hair, facial hair, and build; relevant background and period; approved traits to preserve].
+Reference roles: [style only versus the same person's approved identity or complexion].
 Composition: strong lesson focal scene, approved transparent series logo placed as a clean overlay area, optional lesson title and scripture reference integrated with the logo if natural or placed elsewhere if not, colorful depth, classroom readability.
 Avoid: misspelled words, extra text, clutter, scary imagery, unsupported Bible details, dark mood, photorealistic adults.
 ```
@@ -79,3 +82,5 @@ Run the shared verification from `jr-church-image-standards.md`, plus:
 
 - If lesson title or scripture reference text is present, confirm it is readable, correctly spelled, rendered in the series lettering style by imagegen (not a script or system font), and either naturally integrated with the logo or placed elsewhere cohesively.
 - Confirm the scene reflects the lesson outline or user brief without unsupported details.
+- Compare faces with nearby covers: different people have their own features, and the same named person stays consistent across their assets.
+- Confirm that appearance and grooming fit the intended background and period, and that an edit for distinct looks has preserved the intended ethnicity and approved complexion.
