@@ -46,6 +46,15 @@ If you are about to do any of these, you are on the script-text path. Stop and u
 - Default paths: series cover `Series/<Series Name>/cover-graphic.png`; lesson cover `<lesson folder>/cover-graphic.png`; lesson images `<lesson folder>/image-1.png`, `image-2.png`, ...; background `Series/<Series Name>/presentation-background.png`; style lock `Series/<Series Name>/series-image-style.md`.
 - When regenerating an existing asset, keep its existing filename even if it differs from the default (some lessons use `cover-image.png`).
 
+## Character Identity and Historical Fit
+
+- Match the series' painting, lighting, and lettering style. Give each new person their own face and silhouette. Use nearby covers as style references; reuse a face only when depicting the same person.
+- Before generating people, describe each person's age, face shape, hairline, hairstyle, facial hair where relevant, and build. Choose visible differences in facial proportions and hair silhouettes so viewers can tell people apart. Relatives can share features while remaining distinct.
+- Fit appearance, grooming, clothing, and materials to the person's known background, region, culture, and period, following the lesson sources and the user's direction. Race or nationality does not prescribe one face. Use natural variation without ethnic caricatures. When appearance is unrecorded, treat the design as an artistic choice rather than a known historical fact. Avoid assigning later national identities to people who lived before those identities existed.
+- Preserve the intended ethnicity and approved complexion during edits unless the user asks to change them. A request for different looks means changing individual features, hair, or build. Do not change race or nationality to make characters distinct.
+- Keep the same named person's approved features consistent across their cover and lesson images. Carry those traits into later prompts. Label reference images by purpose, such as style, character identity, or complexion, so a style reference does not supply every character's face.
+- Inspect the result beside nearby covers. Check that different people have distinct facial structures and hair silhouettes, that repeated characters keep their identity, and that the requested background and period remain intact.
+
 ## Asset Preservation
 
 Existing PDFs, take-home HTML, coloring pages, covers, and non-target lesson images are finished lesson assets. Do not edit, rename, or delete them unless the user explicitly asks.
