@@ -29,7 +29,7 @@
 
 At Jericho, a mighty city with great walls, God gave unusual instructions. The people marched around the city once a day for six days. On the seventh day, they went around it seven times. When they were done, the priests blew the trumpets and the people shouted. The wall fell, and Israel entered the city. God had given them the victory. But He still had certain instructions for them to follow. 
 
-<image: Joshua standing over the rubble of Jericho with the israelite army behind him, them all cheering>
+![Joshua and the Israelites cheer amid the fallen walls of Jericho](image-1.png)
 
 ### 2. God Warns Them About Jericho's Spoils
 
@@ -52,7 +52,7 @@ So no matter what they saw or wanted when they went in the city, were they allow
 
 **Summary/Lesson:** A man named Achan saw some very nice clothes, and a lot of silver and gold. The Bible says that when he saw them, he coveted them, which means he wanted them very badly for himself. Now boys and girls, is that something that he was allowed to have? No. God said that those things were for the Lord. 
 
-<image: Achan taking some nice clothes, silver, and gold from the rubble, looking around making sure no one is watch, a look of worry on his face>
+![Achan secretly takes a garment, silver, and gold from Jericho's rubble](image-2.png)
 
 But Achan took them and hid them under the ground inside his tent. He had chosen to disobey God, then hide what he did. He already knew what he was doing was wrong, otherwise he wouldn't have hid it. 
 
@@ -68,7 +68,7 @@ The next battle after Jericho was a small city called Ai. Joshua sent spies to A
 > **Joshua 7:4-5**
 > So there went up thither of the people about three thousand men: and they fled before the men of Ai. And the men of Ai smote of them about thirty and six men: for they chased them from before the gate even unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water.
 
-<image: the israelite army fleeing a small city of Ai (as described by the Bible) with fear on their faces>
+![Frightened Israelite soldiers flee downhill from Ai](image-3.png)
 
 **Summary/Lesson:** Even though it was a small city, AI won the battle and 36 Israelites were killed. This wasn't supposed to happen. Israel's army was much bigger than AI's, and they should have easily overtaken the city. 
 
@@ -87,7 +87,7 @@ Who was covering their sin?
 > **Joshua 7:15**
 > And it shall be, that he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the LORD, and because he hath wrought folly in Israel.
 
-<image: early in the morning, joshua is on his knees praying to God>
+![Teaching illustration of Joshua kneeling in prayer at dawn in the Israelite camp](image-4.png)
 
 **Summary/Lesson:** God told Joshua to get up. Israel had sinned and broken His command. What was the command? For them to not take anything that they wanted from Jericho. But they had. The stole from God and hid the truth. God told Joshua that Israel could not stand before its enemies or that He would no longer be with them while this remained among them.
 
@@ -102,7 +102,7 @@ So in the morning, All the people got up and stood in huge groups broken up by t
 - Household: Zabdi
 - Achan
 
-<image: throngs of people surrounding Joshua, as he points to Achan with dread on his face. Joshua is point with a great deal of sadness, but the firm stand of a leader.>
+![Joshua sadly but firmly points to Achan before the assembled Israelites](image-5.png)
 
 > **Joshua 7:19-23**
 > And Joshua said unto Achan, My son, give, I pray thee, glory to the LORD God of Israel, and make confession unto him; and tell me now what thou hast done; hide it not from me. And Achan answered Joshua, and said, Indeed I have sinned against the LORD God of Israel, and thus and thus have I done: When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it. So Joshua sent messengers, and they ran unto the tent; and, behold, it was hid in his tent, and the silver under it. And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the LORD.
@@ -123,7 +123,7 @@ Boys and girls, it is so important to confess and admit your sins before you get
 
 **Summary/Lesson:** Achan was brought to the valley of Achor. But not just him, his sons and daughters were brought with him, along with his animals, tent, possessions, and the stolen goods. God's judgment fell. Achan was stoned, so were his animals, and his belongings, and his children. Can you imagine? His children who had no part in his sin, were killed because of his sin. Your sin doesn't affect just you. Others pay for your sin too. A great heap of stones remained at that place. The Lord then turned from His fierce anger.
 
-<image: Achan and his family are behind the camera, but we can see the anger in the people's eyes as they are throwing stone at and over the camera. It's a wide angle view>
+![Illustrated wide-angle view of an angry crowd throwing stones toward an offscreen location; Achan and his household remain unseen](image-6.png)
 
 No only did 36 men loose their lives in the battle, but Achan's family all died as well. God is serious about us obeying His commands. We cannot expect to disobey Got and be able to do whatever we want. We have to do right.
 
